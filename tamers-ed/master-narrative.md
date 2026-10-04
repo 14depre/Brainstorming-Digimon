@@ -197,3 +197,23 @@ During the Brother Conflict Arc, he breaks out of the D-Arc after ChaosGallantmo
 The EX form fights beside ChaosGallantmon, Gallantmon, ArsenalHydramon, and Beelzemon in the finale. Beelzemon warns him that one correct battle does not complete a redemption and that survival will require continuing to choose after the enemy is gone. Sanguinarymon rejects the advice verbally and then protects Beelzemon during the next exchange.
 
 After the battle, he leaves for the Digital World. He refuses the suggestion that Salvodramon is his brother, while Salvodramon points out that the objection has failed to stop everyone from describing their conflict that way. His EX form's name, complete design, and attack list remain open.
+
+### Chaosmon — Fusion Killer
+
+- **Level:** Mega
+- **Type:** Unique Digimon
+- **Attribute:** Vaccine
+- **Components:** BanchoLeomon + Darkdramon
+- **Role:** Recurring false villain, unstable permanent fusion, and independent third person
+
+Chaosmon is a permanent fusion containing the intact DigiCores of BanchoLeomon and Darkdramon alongside an emergent third identity. His asymmetrical body preserves both sources through the Bancho Blade and Dark Prominence arms. He is neither a T-X nor a D-X and does not serve the prison willingly. His unstable existence makes him unusually sensitive to other combined forms and to the distortions created when the containment system forces incompatible data together.
+
+He enters the story as the Fusion Killer, attacking DNA Digivolutions and forcing them to separate. Chaosmon believes unstable fusions will feed the prison's expansion and considers the Tamers irresponsible for entering temporary combinations they can abandon afterward. Each successful separation also confirms his fear that fusion is expected to end and that his own continued existence represents an error waiting to be corrected.
+
+The conflict is not caused by mind control. Chaosmon chooses his attacks according to an incomplete but understandable conclusion about the danger. This allows the Tamers to oppose him without reducing his actions to another command that can be switched off. He can be reasoned with only after someone recognizes that survival is part of the argument.
+
+Jeri detects data resembling BanchoLeomon within him. She refuses to call him Leomon, demand the return of a dead partner, or treat BanchoLeomon's DigiCore as proof that Chaosmon belongs to her. Her response unsettles him because it is the first recognition that does not require choosing between his component identities and the person who exists now.
+
+Chaosmon guides the Tamers through the final route after they agree that entering the prison may separate or delete him. Jeri states the risk without deciding that division would be a preferable outcome. Chaosmon participates because the choice remains his. During the shutdown, he holds incompatible layers of the prison apart while Caritasmon stabilizes the DigiCores and emergent identity inside him.
+
+He survives the collapse but requires a lengthy recovery. BanchoLeomon, Darkdramon, and Chaosmon remain present and begin seeking a stable solution that acknowledges all three instead of selecting one as the authentic owner of the body. Jeri visits without defining the relationship through Leomon. Chaosmon accepts her presence and disputes every use of the word "friendship."
