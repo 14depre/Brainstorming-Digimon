@@ -96,6 +96,6 @@ Move Chaosmon ahead of the T-X and D-X so the first act has a tangible antagonis
 - **Demon Lord arc (idea).** One or two Demon Lords (e.g. Barbamon offering to heal her, Daemon as muscle) try to bring Lilithmon back. The offer to restore her would remove her need for Mao's anchor. It forces the "pride or Mao?" answer. Place it after Mao joins the team. Possible Beelzemon angle.
 - **Lilithmon's refusal to retreat** stays ambiguous early (pride, Mao, or both) and becomes a late emotional reveal.
 - **Abyssdramon comes after the Sanguinarymon reveal.** Its gore look is Salvodramon's buried D-X architecture surfacing, combined with Takato's Megidramon fear. Naming it becomes Naoki affirming Salvodramon's identity. It is no longer the first DNA form.
-- [ ] **First DNA form:** needs to be chosen (Tangomon or Moondramon are candidates).
+- **First DNA form:** an original-trio pair first (proposed: Komainudramon), with Tangomon as the first cross-generation fusion right after.
 - [ ] **Chaosmon's Fusion Killer trigger** moves to the first DNA; Abyssdramon later "proves him right."
 - [ ] **Red fusions:** possibly only after the reveal, once Salvodramon stops suppressing that data.
