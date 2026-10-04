@@ -240,7 +240,7 @@
 
 **Renamon:** You opened the door.
 
-*Rika looks around the table: her mother crying over cheekbones, her grandmother pouring tea for a Demon-sized appetite, Takato apologizing to a koi pond, Guilmon handing bread to a sun goddess, and Renamon pinned between two sisters who aren't letting go.*
+*Rika looks around the table: her mother crying over cheekbones, her grandmother pouring tea for a sun-sized appetite, Takato apologizing to a koi pond, Guilmon handing bread to a sun goddess, and Renamon pinned between two sisters who aren't letting go.*
 
 **Rika:** *(quietly, mostly to herself)* Yeah. I did.
 
