@@ -87,3 +87,15 @@ Move Chaosmon ahead of the T-X and D-X so the first act has a tangible antagonis
 - [ ] **Jabberwockmon:** profile says it emerges through Takato's sketchbook; the arc debut doesn't mention it.
 - [ ] **Salvodramon's fusions are all red.** Is that Sanguinarymon's data bleeding through?
 - [ ] **The restrained shape** at the end of the Reunion Arc: is it Anglemon or someone else?
+
+## 7. Decisions made during restructuring
+
+- **More arcs.** Five is too few. Working list is ~12 arcs (Reunion, New Faces, Fusion Killer, Old Friends, The Prison Below, The Black Knight, Raydramon, Sun and Moon, Brother Conflict, Deletion, The Seal, Final Battle). Arc count is still open.
+- **Chaosmon is the early false threat**, appearing before the T-X and D-X.
+- **Mao is a full Tamer**, not a subplot. She needs an on-screen moment where she chooses the team.
+- **Demon Lord arc (idea).** One or two Demon Lords (e.g. Barbamon offering to heal her, Daemon as muscle) try to bring Lilithmon back. The offer to restore her would remove her need for Mao's anchor. It forces the "pride or Mao?" answer. Place it after Mao joins the team. Possible Beelzemon angle.
+- **Lilithmon's refusal to retreat** stays ambiguous early (pride, Mao, or both) and becomes a late emotional reveal.
+- **Abyssdramon comes after the Sanguinarymon reveal.** Its gore look is Salvodramon's buried D-X architecture surfacing, combined with Takato's Megidramon fear. Naming it becomes Naoki affirming Salvodramon's identity. It is no longer the first DNA form.
+- [ ] **First DNA form:** needs to be chosen (Tangomon or Moondramon are candidates).
+- [ ] **Chaosmon's Fusion Killer trigger** moves to the first DNA; Abyssdramon later "proves him right."
+- [ ] **Red fusions:** possibly only after the reveal, once Salvodramon stops suppressing that data.
