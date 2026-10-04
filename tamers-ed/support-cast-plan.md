@@ -32,7 +32,12 @@ E.D.'s core questions, for reference:
 - **Theme:** grief without ownership. She lost Leomon and was absorbed by the D-Reaper.
 - **Unique asset:** **she is the only human who has been inside the D-Reaper.** The prison is the D-Reaper's cage, still running. Her trauma becomes expertise: she recognizes the feeling of a mindless system wearing a familiar face.
 - **Plot function:** the Chaosmon thread. She's the one who sees the third person in the middle of his triple core. In the final arc, she's the first to recognize the illusions, because the D-Reaper trapped her in one once.
-- **Open question:** does Jeri get a partner? Proposed: **no.** Her ending is choosing connection (Chaosmon, friends) without needing someone to replace Leomon.
+- **Jeri and Chaosmon get genuinely close.** No official "partner" label, since Chaosmon disputes every label anyone gives him.
+  - **Shared wound:** both were used as vessels. The D-Reaper used Jeri as a container and a hostage; Chaosmon is a container for two other DigiCores. They understand each other without explaining it.
+  - **Jeri kept her old D-Arc** for thirteen years, the way Rika kept hers. It starts reacting to Chaosmon. The question is whether it's responding to the BanchoLeomon data or to Chaosmon himself. The device can't tell. Jeri decides it's him.
+  - **Visual payoff:** the D-Arc only fully wakes once his triple core stabilizes, glowing the pink of his center core, not the gold of BanchoLeomon's.
+  - **Beelzemon triangle:** Chaosmon starts out protective of Jeri around Beelzemon.
+  - Whether it ever becomes a formal partnership stays open, possibly left as an epilogue hint.
 
 ### Impmon / Beelzemon
 - **Theme:** redemption as a daily choice. He killed Leomon. That never stops being true.
@@ -88,7 +93,7 @@ E.D.'s core questions, for reference:
 
 ## Open questions
 
-- [ ] Does Jeri get a partner by the end?
+- [ ] Does Jeri and Chaosmon's bond become a formal partnership, or stay unnamed?
 - [ ] Is Tamers' Beelzemon a "real" Demon Lord in E.D. lore?
 - [ ] What did Ryo do during the thirteen years?
 - [ ] What are Kazu's and Kenta's adult jobs?
