@@ -58,6 +58,12 @@ Kei met Wulvermon during a separate attack in an underground shopping district. 
 
 The new Tamers were brought to Hypnos, where Salvodramon immediately objected to being examined and Wulvermon remained near the door. Guilmon attempted to make both of them feel welcome by offering bread. Wulvermon accepted one piece after Guilmon continued holding it out, while Salvodramon asked whether the bakery produced anything shaped like ammunition.
 
+The group learned that the hunters were following a transmission beneath the Digital World's normal network. Henry compared it to the lowest layer of the old D-Reaper readings, although the signal followed a rigid command structure unlike a life-form. Mao entered the Hypnos network while he was tracing it and copied the results. Rika intercepted her during her attempt to leave the facility. Lilithmon appeared when security moved to restrain Mao and forced the Tamers to stand down by opening the damaged D-Arc enough to release part of her power.
+
+Mao admitted that she had been tracking the same signal because it interfered with Lilithmon's anchor. She expected Hypnos to confiscate the D-Arc once its condition became known. Henry instead asked how she had kept it operating for thirteen years. Mao assumed the question concealed an accusation and gave him a false explanation until Renamon noticed that the replacement circuits visible through the cracked casing had been installed by hand. Henry offered access to the signal trace in exchange for Mao's repair records. She accepted after adding several conditions and stealing a second copy of the trace while they spoke.
+
+The first arc ended when the Tamers repelled a coordinated attack on Hypnos and discovered that the rogue Digimon had not organized themselves. Each had received the same promise from the buried transmission: data, stability, and a permanent place in the Real World in exchange for the returning partners. The final defeated hunter attempted to answer the signal and was pulled into a black passage before it could identify the source. On the other side of the opening, a large shape covered in broken restraints began to move.
+
 ## Characters
 
 ### Partners
