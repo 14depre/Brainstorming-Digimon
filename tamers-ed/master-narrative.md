@@ -28,6 +28,36 @@ During the same thirteen years, Mao Kurose lived outside most official systems w
 
 When the Digimon were pulled back to the Digital World, Lilithmon resisted the forced return and began to come apart. Mao remained with her and attempted to hold her exposed data together. A damaged black-and-gold D-Arc formed between them as an emergency anchor, absorbing part of Lilithmon's collapsing data and preserving the remainder in the Real World. They spent the next thirteen years moving through temporary homes and forged identities while Mao learned to maintain the device with stolen components and improvised code.
 
+Elsewhere, Naoki Sakurai encountered Salvodramon during one of the first minor breaches preceding the partners' return. Salvodramon emerged from a damaged transit layer pursued by wild Digimon and immediately behaved as though the pursuit were an inconvenience he had already solved. He could summon compact firearms from his own data and treated every successful shot as proof of his superior planning, even when Naoki had just pulled him out of the path of an attack. Naoki's caution made him the unwilling straight man to Salvodramon's confidence, but he continued protecting the Digimon while trying to locate someone capable of explaining what had happened.
+
+Kei Morita observed the same anomalies through the card community. He was an exceptionally capable player who concealed his preparation beneath an easygoing manner and used unofficial matches to gather cards, rumors, and money. Kei noticed that several rare cards were changing text after being exposed to digital disturbances. He began mapping the changes and found that the altered cards pointed toward Shinjuku.
+
+## Story Arcs
+
+> **Work in progress.** The arcs below are partial and not yet the full story. They will be organized, ordered, and filled out in a later pass. Gaps are left open on purpose rather than invented.
+
+### Reunion Arc
+
+The first major breach opened beneath the park where Takato had once hidden Guilmon. Takato received a call from Henry after Hypnos detected the distortion, while Rika arrived independently when her D-Arc activated after thirteen silent years. The three entered the old tunnel together and found the remains of the portal Takato had discovered as a child. Its surface appeared only in fragments, repeatedly forming and collapsing against the concrete wall.
+
+Several rogue Digimon crossed before Hypnos could stabilize the opening. They ignored the Tamers and attacked the portal itself, attempting to seize three approaching signatures from inside it. Takato, Rika, and Henry used cards from their old decks to delay them, but their D-Arcs could no longer produce the same effects without their partners present. Naoki reached the tunnel with Salvodramon after tracking the attackers across the city. Salvodramon drove them away from the portal long enough for the three signatures to complete their passage.
+
+Guilmon emerged first and collided with Takato before either of them could speak. Terriermon appeared beside Henry, looked at the adult standing in front of him, and asked why he had become so tall. Renamon arrived last. She and Rika remained several steps apart until Rika asked whether thirteen years had been long enough. Renamon answered that it had been considerably longer from her side and lowered her head. Rika crossed the remaining distance and held her before the portal began breaking apart again.
+
+The returning partners had not crossed deliberately. They remembered being in separate regions of the Digital World before an unknown force pulled at the data that connected them to their Tamers. Their D-Arcs had answered from the Real World and completed the transfer. The same process made their data unusually stable outside the Digital World, which explained why the rogue Digimon had attempted to capture them.
+
+Hypnos moved the group to a secure facility, where Yamaki confirmed that smaller breaches had opened across the city during the preceding weeks. Most collapsed after allowing one or two Digimon through. The arrivals were disoriented, injured, or desperate to avoid being returned, and several had begun hunting stronger Digimon to keep themselves coherent. The three original partners possessed a connection that appeared self-renewing, making them valuable targets.
+
+Takato refused to leave Guilmon inside the facility overnight and brought him home. Guilmon recognized the bakery immediately, although he was surprised by the changes to the street and by Takato's parents appearing older. He spent much of the evening eating bread while Takato repeatedly looked toward the kitchen to confirm that he was still there. Henry responded to Terriermon's return by examining his data until Terriermon closed the computer and told him that a medical inspection could wait until after dinner.
+
+Rika brought Renamon to Rumiko's home. Rumiko attempted to welcome her calmly, lasted only a few seconds, and embraced her. Renamon accepted the attention while Rika watched from the doorway. Later that night, Rika woke and found Renamon sitting near the window as she had when they were children. Rika asked whether she intended to disappear before morning. Renamon said that she did not, and Rika moved her bedding closer to the window without explaining why.
+
+The attacks continued over the following days. Naoki received a D-Arc after placing himself between Salvodramon and a hunter attempting to extract his core data. Salvodramon defeated the attacker but lost control of his weapons when the surrounding breach distorted their targeting systems. Naoki used a modified card given to him by Henry to clear the interference, allowing Salvodramon to evolve into Raygundramon. After the battle, Salvodramon declared that the plan had proceeded correctly. Naoki pointed out that there had been no plan until he arrived.
+
+Kei met Wulvermon during a separate attack in an underground shopping district. Wulvermon had been protecting a group of weaker Digimon who had crossed through an unstable passage. He refused to abandon them when a hunter blocked the exit and sustained repeated injuries while holding the corridor. Kei used altered cards to redirect the building's security shutters and divide the attackers. When Wulvermon asked why a human had involved himself, Kei answered that the odds had become offensive. Their D-Arc formed after Wulvermon accepted Kei's direction and allowed him to guide the retreat.
+
+The new Tamers were brought to Hypnos, where Salvodramon immediately objected to being examined and Wulvermon remained near the door. Guilmon attempted to make both of them feel welcome by offering bread. Wulvermon accepted one piece after Guilmon continued holding it out, while Salvodramon asked whether the bakery produced anything shaped like ammunition.
+
 ## Characters
 
 ### Partners
