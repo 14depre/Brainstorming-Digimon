@@ -217,3 +217,23 @@ Jeri detects data resembling BanchoLeomon within him. She refuses to call him Le
 Chaosmon guides the Tamers through the final route after they agree that entering the prison may separate or delete him. Jeri states the risk without deciding that division would be a preferable outcome. Chaosmon participates because the choice remains his. During the shutdown, he holds incompatible layers of the prison apart while Caritasmon stabilizes the DigiCores and emergent identity inside him.
 
 He survives the collapse but requires a lengthy recovery. BanchoLeomon, Darkdramon, and Chaosmon remain present and begin seeking a stable solution that acknowledges all three instead of selecting one as the authentic owner of the body. Jeri visits without defining the relationship through Leomon. Chaosmon accepts her presence and disputes every use of the word "friendship."
+
+### Anglemon
+
+- **Generation:** T-X
+- **Level, type, and attribute:** Open
+- **Role:** Last surviving T-X, unwilling prison mechanism, and later gate guardian
+
+Anglemon is a humanoid abyssal anglerfish Digimon with a luminous lure, a saw-like upper mandible, and enormous claws shaped like saw blades. His design remains unchanged from the original concept. Damage sustained during the ancient containment replaced large sections of his body with prison material, leaving it difficult to determine where the Digimon ends and the mechanism begins.
+
+As a T-X unit, Anglemon was one of many first-line extermination soldiers rather than an individually celebrated elite. By the time the Tamers find the chambers, every other known T-X has been consumed by the prison or reduced to an empty impression in its structure. Anglemon survived because part of his body continued operating as an access mechanism and active guard.
+
+He first attacks the Tamers when they enter the abandoned lower region and repeatedly attempts to force Salvodramon into dormancy. Anglemon identifies the younger Digimon and Wulvermon as property because the old command language provides no category for artificial units who developed lives beyond their assigned system. Before the group escapes, he activates the two remaining D-X chambers.
+
+Anglemon later attempts to stop the expanding prison by returning to his own chamber and resuming the ancient sacrifice. The system consumes most of his recovered power without slowing down. When the Tamers pull him free, he attacks in confusion and demands to be placed back inside because completing the mission remains the only method of survival he understands.
+
+At the final entrance, the prison uses his lure to draw the Tamers toward false routes while his remaining independent speech warns them to retreat. Moondramon severs the restraints, but opening the gate still requires its living T-X component. Anglemon returns to the mechanism long enough to issue the sequence, and Moondramon pulls him out before the prison can absorb him permanently.
+
+Anglemon supplies the T-X authorization during the shutdown. ChaosGallantmon carries him from the collapsing core after he loses consciousness. He survives as the last member of the mass-produced first generation, while ChaosGallantmon and Sanguinarymon survive from the elite D-X line.
+
+With no command network remaining, Anglemon follows the Tamers until he can choose another duty. He eventually becomes guardian of one of the oldest stable gates. His threatening appearance and mechanical manner make him extremely poor at reassuring peaceful travelers; several flee after he attempts to tell them their passage has been authorized. His final attack list remains open.
