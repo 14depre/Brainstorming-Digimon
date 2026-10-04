@@ -301,3 +301,84 @@ The first restoration is incomplete because Tsukikagemon and Nichirinmon form th
 The final-battle Taikyokumon forms through three active decisions. Renamon places a temporary copy of her data into the structure while keeping her DigiCore anchored to Rika. Each sister remains conscious and capable of leaving. When the prison identifies the form as the original restored being, Taikyokumon answers as "we." The body is shared, but no sister is converted into an organ of someone else's identity.
 
 After the battle, the sisters can form Taikyokumon when all three consent. They do not use it as their normal state, and the fusion always returns them unchanged. Its exact level and complete attack list remain open pending the final profile sheet.
+
+## DNA Digivolution Matrix
+
+Every pair among the five principal Rookie partners has one established DNA form. This produces a complete ten-form matrix:
+
+| Components | DNA Digivolution | Primary function |
+|---|---|---|
+| Guilmon + Renamon | Komainudramon | Oath-bound territorial guardian |
+| Guilmon + Terriermon | Jabberwockmon | Reality-altering storybook wildcard |
+| Guilmon + Salvodramon | Abyssdramon | Feral siege and threat elimination |
+| Guilmon + Wulvermon | Cairndramon | Rescue and pathfinding through deletion |
+| Renamon + Terriermon | Harequinmon | Deception and information control |
+| Renamon + Salvodramon | Tangomon | Rhythmic precision gunfighter |
+| Renamon + Wulvermon | Parhelimon | Celestial route guardian |
+| Terriermon + Salvodramon | Barnstormon | Momentum-based aerial artillery |
+| Terriermon + Wulvermon | Breakwatermon | Impact absorption and mobile sanctuary |
+| Salvodramon + Wulvermon | Moondramon | Lunar defense, interception, and extraction |
+
+### Abyssdramon
+
+- **Components:** Guilmon + Salvodramon
+- **Tamers:** Takato + Naoki
+- **Role:** Feral siege weapon and priority-threat eliminator
+
+Abyssdramon is an enormous black quadrupedal dragon whose body combines a skeletal serpent-beast silhouette with living artillery. It avoids the appearance of a conventional armored upgrade. Its low posture, extended frame, exposed ridges, and weapon structures make it resemble an animal that developed around a cannon instead of a machine placed over Guilmon's body.
+
+The fusion magnifies Guilmon's appetite, territorial instinct, and destructive output through Salvodramon's targeting architecture. During its first formation, these systems do not agree on how the body should move. Guilmon wants to close the distance and attack the greatest immediate danger, while Salvodramon attempts to maintain range and calculate a firing solution. The contradiction produces a provisional third identity concerned almost entirely with danger, territory, and hunger.
+
+Abyssdramon stabilizes when Takato and Naoki address it by name and provide a shared command sequence. Recognition matters because the fusion initially experiences itself as an emergency with no identity beyond eliminating the threat. Once named, it can understand the two internal voices as parts of one temporary body without allowing either to seize complete control.
+
+Its signature techniques include Abyss Cannon, a concentrated discharge from its living artillery system; Feral Rampage, which converts accumulated damage into increasing physical aggression; and Shadow Claw Barrage, a series of strikes that leave delayed fissures along the target and terrain. The same damage-fed escalation is its greatest weakness. Abyssdramon can fixate on the most powerful enemy, ignore evacuation objectives, and continue fighting after separation would be safer.
+
+Abyssdramon is the first successful DNA Digivolution in the story. It forms inside a collapsing transit layer, destroys the device holding the layer shut, and carries trapped Digimon to safety before separating. The rescue establishes that its terrifying body and unstable instincts do not determine the purpose for which Guilmon and Salvodramon choose to use it. Its appearance deliberately recalls Takato's fear of Megidramon without repeating the same loss of Guilmon's identity.
+
+### Komainudramon
+
+- **Components:** Guilmon + Renamon
+- **Tamers:** Takato + Rika
+- **Role:** Sacred territorial guardian
+
+Komainudramon is a massive quadrupedal komainu-dragon formed from volcanic stone, sacred architecture, and contained fire. Its body has a leonine chest, dragon claws, elongated ears, and a split flame tail. Cracks between its stone plates reveal Guilmon's heat, while Renamon's ritual data appears through seals, boundary markings, and structures resembling a torii or temple guardian statue.
+
+The fusion is savage within a clearly defined purpose. Komainudramon selects a person, structure, or piece of ground as sacred territory and prevents hostile data from crossing the boundary. Guilmon supplies the willingness to meet an intruder physically, while Renamon defines the rules governing who may enter and how force should be directed.
+
+Vermilion Ward establishes the protected territory and strengthens the body while Komainudramon remains inside it. Guardian Fang seizes and expels an intruder from the boundary. Ninefold Pyre ignites layered seals beneath multiple enemies and directs the fire away from those under protection. The form can also settle into a statue-like state around the guarded location, conserving power while maintaining the ward.
+
+Its restriction is built into its strength. Komainudramon cannot freely abandon the territory it has sworn to protect. An opponent can divide the battlefield, threaten someone beyond the ward, or force Takato and Rika to decide what the fusion's promise actually covers. The form remains stable only when both Tamers agree on the boundary; conflicting definitions cause cracks to spread through its stone body.
+
+Komainudramon first appears while defending Rika's home from an attack transmitted through her D-Arc. Its controlled savagery helps Takato separate Guilmon's capacity for violence from the fear that every violent form will become Megidramon. Rika, who ordinarily prefers mobility and aggressive counters, must accept a form whose victory consists of remaining in one place until everyone behind it is safe.
+
+### Jabberwockmon
+
+- **Components:** Guilmon + Terriermon
+- **Tamers:** Takato + Henry
+- **Role:** Reality-altering wildcard and impossible-problem solver
+
+Jabberwockmon resembles a compact upright dragon from an unfinished children's book. It has exactly two arms and two legs, a crooked neck, torn-paper ear-wings shaped like quotation marks, one crayon-like claw, one fountain-pen nib hand, mismatched ink eyes, a crescent grin, and an unfinished tail ending in a pencil point. Scribbled corrections remain visible across its body. Its palette uses dusty lavender-gray, ultramarine, misregistered vermilion and turquoise ink, parchment-colored wings, and small lemon-yellow doodles.
+
+The fusion can impose one impossible sentence upon local reality at a time. A declaration such as "heavy things fall upward" or "the locked door is farther away on the inside" becomes temporarily true. The rule also applies to Jabberwockmon and cannot be replaced until the current sentence is erased, completed, or invalidated. Careless wording therefore traps the fusion alongside its opponents, while an intelligent enemy can exploit ambiguity and loopholes.
+
+Frabjous Flare produces illustrated fire whose physical property changes according to the active rule. Tulgey Turnabout folds, rotates, or reverses part of the battlefield like a page. Vorpal Scribble redraws part of Jabberwockmon, an object, or an attack into a temporary alternative. None of the techniques offer unlimited reality alteration because all remain bound by the single declared rule and the visual logic of the unfinished illustration.
+
+Jabberwockmon is cheerful, literal, imaginative, and slightly unsettling. Guilmon's uncomplicated sincerity combines with Terriermon's humor to create a Digimon that treats mortal danger as a story whose rules can be rewritten. It understands that the danger is real while refusing to grant reality the final word on what can happen next.
+
+The form emerges through Takato's sketchbook and reinforces that being imagined does not make Guilmon less authentic. In the final battle, Jabberwockmon protects Henry and Mao while they connect the D-Arcs. It is especially effective against the prison because the containment system depends on fixed definitions, while Jabberwockmon can force one carefully worded exception into those definitions.
+
+### Cairndramon
+
+- **Components:** Guilmon + Wulvermon
+- **Tamers:** Takato + Kei
+- **Role:** Rescue titan and pathfinder through collapsed data
+
+Cairndramon's final design is a colossal upright Digimon resembling an obelisk-shaped basalt mountain. It has a vertically divided face with tiny amber eyes, a glacier-white mantle of snow-like data, a molten orange core visible between layered black and ash-gray stone, dull crimson markings, and an enormous floating tail composed of separated cairn stones. The final design is not furry or quadrupedal; its scale and near-motionless silhouette make it appear like part of the landscape until it begins to walk.
+
+Cairndramon detects the shape left by missing data. It cannot automatically resurrect someone who has been deleted, but it can distinguish an empty path from a place where fragments, memories, or distress signals remain. Every step deposits a glowing cairn that marks a temporary route through collapsed layers, false environments, and spaces the prison has disconnected from ordinary navigation.
+
+Beacon Howl locates surviving signals and allows separated allies to hear the direction of the route. Ember Passage opens a temporary corridor through unstable data. Cairnheart shelters injured Digimon inside the heat of its central core and prevents further fragmentation. Last Trail commits the fusion to one final route before the surrounding layer closes, leaving markers that others can follow even if Cairndramon cannot return the same way.
+
+The fusion is gentle, stubborn, and unable to ignore a credible call for help. False distress signals can lure it into traps, and the number of possible rescues can force Takato and Kei to choose whom the form can reach. Cairndramon must learn that marking a route and retreating can save more lives than allowing the pathfinder itself to become lost.
+
+During the final descent, Cairndramon uses Wulvermon's memory of the archive to navigate routes that change whenever the prison detects the Tamers. Its primary contribution is bringing separated characters back together and constructing an escape. It reaches the final conflict by refusing to treat lost people as already dead, yet its limitation prevents that hope from becoming an effortless reversal of deletion.
