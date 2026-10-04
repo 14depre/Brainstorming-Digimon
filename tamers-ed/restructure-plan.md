@@ -99,3 +99,5 @@ Move Chaosmon ahead of the T-X and D-X so the first act has a tangible antagonis
 - **First DNA form:** an original-trio pair first (proposed: Komainudramon), with Tangomon as the first cross-generation fusion right after.
 - [ ] **Chaosmon's Fusion Killer trigger** moves to the first DNA; Abyssdramon later "proves him right."
 - [ ] **Red fusions:** possibly only after the reveal, once Salvodramon stops suppressing that data.
+- **Project title: Digimon Tamers: Passage Authorized.** Replaces "E.D." The original 2008 title, *Digimon Tamers: Edición Dorada*, stays as trivia and as the repo codename.
+- **Bible format:** a live Claude Doc bible with tabs (like the Danza Macabra setup).
