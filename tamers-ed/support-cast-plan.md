@@ -37,7 +37,13 @@ E.D.'s core questions, for reference:
   - **Jeri kept her old D-Arc** for thirteen years, the way Rika kept hers. It starts reacting to Chaosmon. The question is whether it's responding to the BanchoLeomon data or to Chaosmon himself. The device can't tell. Jeri decides it's him.
   - **Visual payoff:** the D-Arc only fully wakes once his triple core stabilizes, glowing the pink of his center core, not the gold of BanchoLeomon's.
   - **Beelzemon triangle:** Chaosmon starts out protective of Jeri around Beelzemon.
-  - Whether it ever becomes a formal partnership stays open, possibly left as an epilogue hint.
+  - **Decision: they become partners.** Jeri gets the happy ending the original series struggled to give her.
+- **Jeri's E.D. ground rules**
+  - **No new suffering spiral.** She is not kidnapped, possessed or used as bait again. The original already put her through her mother's death, Leomon's death, the D-Reaper and more.
+  - **She has done the work.** Thirteen years of healing (including therapy) are part of who she is. Her trauma is history and insight, not her whole personality.
+  - **Her strength is seeing clearly.** When she recognizes the prison's illusions, it reads as earned wisdom, not a relapse.
+  - **The partnership isn't a replacement for Leomon.** It's earned through the Chaosmon storyline and happens on Chaosmon's terms, because the choice has to be his.
+  - **Timing (proposed):** during his recovery after the final battle, when his triple core stabilizes and her D-Arc wakes pink.
 
 ### Impmon / Beelzemon
 - **Theme:** redemption as a daily choice. He killed Leomon. That never stops being true.
@@ -93,7 +99,8 @@ E.D.'s core questions, for reference:
 
 ## Open questions
 
-- [ ] Does Jeri and Chaosmon's bond become a formal partnership, or stay unnamed?
+- [x] Jeri and Chaosmon become partners.
+- [ ] Can Jeri and Chaosmon Biomerge, given he's already a permanent fusion?
 - [ ] Is Tamers' Beelzemon a "real" Demon Lord in E.D. lore?
 - [ ] What did Ryo do during the thirteen years?
 - [ ] What are Kazu's and Kenta's adult jobs?
