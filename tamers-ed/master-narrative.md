@@ -237,3 +237,67 @@ At the final entrance, the prison uses his lure to draw the Tamers toward false 
 Anglemon supplies the T-X authorization during the shutdown. ChaosGallantmon carries him from the collapsing core after he loses consciousness. He survives as the last member of the mass-produced first generation, while ChaosGallantmon and Sanguinarymon survive from the elite D-X line.
 
 With no command network remaining, Anglemon follows the Tamers until he can choose another duty. He eventually becomes guardian of one of the oldest stable gates. His threatening appearance and mechanical manner make him extremely poor at reassuring peaceful travelers; several flee after he attempts to tell them their passage has been authorized. His final attack list remains open.
+
+## The Three Sisters
+
+### Shared Origin
+
+Taikyokumon existed before Tsukikagemon, Nichirinmon, and Renamon became separate Digimon. It contained three developing centers of thought that gradually stopped behaving like aspects of one mind. The original Taikyokumon recognized them as future people and chose to divide, accepting the end of its singular existence so that all three could live independently.
+
+The division distributed memory, power, and possibility unevenly:
+
+| Sister | Inherited aspect | Result of the separation |
+|---|---|---|
+| Tsukikagemon | Memory, restraint, reflection | Retained the clearest recollections and an Ultimate-level body, but confused remembering the past with possessing authority over it. |
+| Nichirinmon | Will, passion, action | Retained an Ultimate-level body and the drive to keep moving, but used action to avoid accepting that Taikyokumon's singular life had ended. |
+| Renamon | Choice, adaptability, self-formation | Reincarnated at the Rookie level without original memories and built a new identity through Rika and her own experience. |
+
+Tsukikagemon and Nichirinmon spent much of their lives believing the separation had failed because the third sister disappeared. When the prison's activation revealed Renamon, they interpreted her independent life as missing data residing in another body. Their first goal is therefore restoration, not sisterhood. They must learn that recognizing Renamon as family requires accepting every part of her that developed without them.
+
+### Tsukikagemon
+
+Tsukikagemon is the elder moon-shadow sister associated with yin, memory, and restraint. She is quiet, patient, observant, and capable of manipulation through omissions and controlled pressure. She prefers to redirect an opponent's strength, close available routes, and wait until resistance produces the outcome she predicted. Her composure makes her appear reasonable even when she is attempting to reclaim Renamon's data against her will.
+
+Her appearance is more elaborate than Renamon's because she retained an older Ultimate-level body and a much larger share of Taikyokumon's original data. The family resemblance is limited to eye shape, an echo of the ear silhouette, and the use of talisman-like elements. She is an ancestral Digimon with her own anatomy and ceremonial design, not a dark Renamon recolor.
+
+Tsukikagemon's memories are incomplete but emotionally convincing. She remembers Taikyokumon's separation and the absence that followed, yet initially remembers the event as damage inflicted upon a whole person. During the failed restoration, she recovers the original intent and realizes that Taikyokumon chose to end. Her development requires her to stop treating memory as a command left by the dead.
+
+After the final battle, Tsukikagemon is the sister most attentive to Rika's household routines. She learns where objects belong, arrives at agreed times, and corrects Nichirinmon's behavior while participating in nearly all of it. Her affection appears through preparation, proximity, and the quiet assumption that Renamon will be included.
+
+### Nichirinmon
+
+Nichirinmon is the elder solar-ring sister associated with yang, will, passion, and action. She is aggressive, cocky, direct, and more visibly emotional than either of her sisters. Her combat style creates overwhelming force and turns hesitation into an opening. Where Tsukikagemon redirects an attack, Nichirinmon meets it with a stronger one.
+
+Her elaborate Ultimate-level body uses solar and ring imagery without reproducing Renamon's silhouette. Shared eye, ear, and talisman motifs provide a family resemblance, while the overall design belongs to a distinct ancient species. The contrast with Renamon is intentional: Nichirinmon looks closer to the power of the original Taikyokumon, while Renamon looks like the sister who had to begin again.
+
+Nichirinmon advocates immediate restoration because continued movement prevents her from examining what the original separation cost. She treats Renamon's refusal as fear or confusion and expects persistence to overcome it. Wulvermon's deletion during the failed Taikyokumon formation forces her to see that restoring one lost person can delete someone who is alive in the present.
+
+Once Renamon accepts her as a sister, Nichirinmon adapts to the new relationship faster than Tsukikagemon. She visits without warning, initiates physical affection, pulls Renamon into photographs, and assumes family activities include everyone available. She creates most of the sisters' domestic chaos and regards Renamon's continued presence as consent to continue.
+
+### Renamon as the Youngest Sister
+
+Renamon is not younger because less of Taikyokumon belongs to her. She is younger because her post-separation life began again at the Rookie level. Tsukikagemon and Nichirinmon possess power and memory from before their division; Renamon possesses thirteen years of choices made with Rika and an identity created outside the original pattern.
+
+This difference makes her visually simpler and emotionally harder for her sisters to understand. They initially see a reduced body containing the part they lost. Renamon sees herself as a complete person being told that her life is evidence of an unfinished process. Her decision to call them sisters occurs only after both stop asking her to become Taikyokumon permanently.
+
+Renamon remains the most reserved sister after they reconcile. Nichirinmon initiates embraces and shared sleeping arrangements, Tsukikagemon organizes them into something sustainable, and Renamon participates while maintaining that she has been caught in circumstances beyond her control. Rika recognizes that Renamon could leave at any time and wisely does not challenge the explanation.
+
+### Reunion and Reconciliation
+
+Tsukikagemon and Nichirinmon first encounter Renamon while Gallantmon and MegaGargomon are fighting near an unstable gateway. They overpower both Megas, then stop when Renamon enters to protect Rika. The sisters recognize her data and attempt to draw it out, referring to her as the center required to restore their original form. Renamon breaks the connection and states that she belongs to no one.
+
+Their retreat leaves the Tamers expecting another attack and Guilmon asking the practical question everyone else has missed: whether Renamon has sisters. Renamon answers that it appears she does. The line establishes the relationship before any of the three are prepared to accept it. Guilmon sees three Digimon connected as family, while Tsukikagemon and Nichirinmon still see one being divided into parts and Renamon sees two strangers attempting to absorb her.
+
+Rika's fear makes the conflict worse. She interprets every sign of Renamon's curiosity as preparation to leave and attempts to restrict contact with the sisters. Renamon refuses to let Rika turn an anticipated abandonment into a decision imposed on her. Rika eventually admits that her father's repeated absences taught her to treat another family as a replacement waiting to happen.
+
+The failed Taikyokumon restoration and Wulvermon's deletion expose the danger in the sisters' original approach. Tsukikagemon and Nichirinmon recover the memory that Taikyokumon separated willingly, while Rika recognizes that permanently excluding them would repeat the same attempt to control Renamon's future. Renamon offers sisterhood only after both Digimon relinquish their claim to her data. Their happy ending grows from continued visits, arguments, protection, photographs, and physical affection instead of a permanent fusion restoring the family to one body.
+
+### Taikyokumon
+
+Taikyokumon is the original complete Digimon and the form produced when all three sisters combine. It represents balance, inversion, and the dangerous possibility that harmony can become indistinguishable from erasure. Its power comes from Tsukikagemon's memory, Nichirinmon's will, and Renamon's capacity to alter a fixed outcome.
+
+The first restoration is incomplete because Tsukikagemon and Nichirinmon form the body while treating Renamon as missing material. This Taikyokumon speaks as "I," regards the sisters as fragments, and attempts to absorb Renamon. It reproduces the original pattern at the expense of the people Taikyokumon originally separated to protect.
+
+The final-battle Taikyokumon forms through three active decisions. Renamon places a temporary copy of her data into the structure while keeping her DigiCore anchored to Rika. Each sister remains conscious and capable of leaving. When the prison identifies the form as the original restored being, Taikyokumon answers as "we." The body is shared, but no sister is converted into an organ of someone else's identity.
+
+After the battle, the sisters can form Taikyokumon when all three consent. They do not use it as their normal state, and the fusion always returns them unchanged. Its exact level and complete attack list remain open pending the final profile sheet.
