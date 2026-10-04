@@ -2,7 +2,7 @@
 
 > Working notes on how each returning character talks, based on their late-series voice in the original *Digimon Tamers* (after Rika and Renamon's arc, through the D-Reaper finale), then aged up thirteen years. Written from memory of the show, not from transcripts. Check against episodes before locking anything.
 >
-> **Open question:** English dub or Japanese original as the voice reference? Some speech habits (nicknames, accents) only exist in one version.
+> **Reference version: English dub.** Notes below were checked against episode 39, "Song of Sakuyamon." Transcripts themselves are not stored in this repo; only voice observations are.
 
 ## How to use this
 
@@ -90,3 +90,43 @@
 - **Sanguinarymon:** hostile, cutting and bitter. Refuses every label offered to him.
 - **Chaosmon:** guarded and argumentative. Disputes every word anyone uses to describe him.
 - **Anglemon:** mechanical, command-language phrasing ("PASSAGE. AUTHORIZED."), with his real voice breaking through in fragments.
+
+---
+
+## Observed in Episode 39, "Song of Sakuyamon"
+
+### Rika
+- Public voice is all jabs: one-word insults, rhetorical put-downs, backhanded praise ("for a boy"). She refuses help out loud ("Do I look like I need rescuing?").
+- **Private voice exists only with Renamon.** She asks real questions (can destiny change? will Jeri be okay?) in short, almost childlike lines.
+- She decides through action, then announces it in one line. Her biggest moment is a choice, not a speech: stay and fight *with* Renamon.
+- Cares about people without saying so to their face. Her worry for Jeri comes out only to Renamon.
+
+### Renamon
+- Speaks in short, complete, philosophical sentences about **destiny and choice**: the past can't change, but you choose what it makes of you, and everyone is responsible for their own destiny.
+- Her calm makes her rare emotional breaks huge. When she begs Rika to leave, it's the most desperate she ever sounds.
+- **E.D. connection:** her late-series philosophy *is* the trait she inherited from Taikyokumon. The sister built around choice has been preaching choice since the original series.
+
+### Sakuyamon (note for the "I" vs "we" rule)
+- Sakuyamon speaks as "I" and Rika describes the merge as "I am Sakuyamon and she is me." That's a willing union.
+- **Rule refinement:** "I" isn't wrong in itself. The failed Taikyokumon's "I" is wrong because it erases consent and treats the sisters as parts. Sakuyamon's "I" is two people who chose to be one voice.
+
+### Takato
+- Earnest reactions and quick protective outbursts ("Don't say that!"). Notices when someone is hurting and goes straight to them.
+- Has a light, dorky sense of humor in tense moments (lava lamp, "Or not.").
+
+### Guilmon
+- Food and simple sensory comparisons (cotton candy cloud, home is "where all the bread is").
+- Treats obvious things as obvious and gently calls others silly for missing them.
+
+### Henry
+- Analytical and pragmatic. Under pressure he proposes the limited, achievable goal instead of the heroic one.
+- Dry humor when impressed by someone else's chaos.
+
+### Terriermon
+- Jokes that puncture the mood at the worst possible time, and "Moumantai" used to reassure others, not just himself.
+
+### Kazu, Kenta, Ryo, Calumon
+- **Kazu:** "Dude," weird similes ("crazier than a soup sandwich"), roasts Kenta constantly.
+- **Kenta:** catastrophizes ("we're doomed"), gets motion sick, is loyal anyway.
+- **Ryo:** cocky charm, teases Rika, quietly competent.
+- **Calumon:** talks himself into bravery out loud, then thinks about cream puffs.
