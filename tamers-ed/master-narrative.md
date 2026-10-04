@@ -130,3 +130,70 @@ Lilithmon's central development concerns possession. She has no difficulty destr
 #### Returning Support Partners
 
 Guardromon, MarineAngemon, Lopmon, Cyberdramon, and Impmon return through later breaches and reunite with Kazu, Kenta, Suzie, Ryo, Ai, and Mako. They protect the outer routes during the final descent into the prison. Impmon again reaches Beelzemon and confronts Sanguinarymon about the assumption that one heroic battle can complete a redemption. Calumon remains unpartnered and uses the Catalyst to prevent the prison from repeatedly stripping evolved Digimon back to lower levels.
+
+## Ancient Units, Rivals, and Survivors
+
+### The T-X and D-X Generations
+
+The T-X and D-X are artificial Digimon generations created long before the modern Digital World. Their creators remain unidentified. The surviving records describe what the units were made to accomplish but end before naming the people or system responsible for producing them.
+
+| Generation | Full designation | Intended function | Known survivor |
+|---|---|---|---|
+| T-X | Tactical Extermination | Numerous first-line units deployed against rapidly spreading threats. Individually weaker, replaceable, and expected to complete orders through numbers. | Anglemon |
+| D-X | Destruction Xtreme | Rare elite units deployed after T-X forces proved insufficient. Each was constructed to confront threats capable of surviving ordinary deletion. | ChaosGallantmon, Sanguinarymon |
+
+Neither generation was designed for life after completing a mission. Their identities were structured around targets, commands, and acceptable sacrifice. When the ancient D-Reaper could not be destroyed, the surviving T-X and D-X entered hibernation and surrendered their bodies and DigiCores to form a living prison around it. The numerous T-X became the outer structure and active mechanisms, while the D-X supplied the authority and power needed to maintain the deepest layers.
+
+The D-Reaper's removal at the end of the original series did not properly deactivate the prison. Its prisoner disappeared while its final directive remained active. Over the following thirteen years, the structure degraded until it could no longer distinguish the missing D-Reaper from uncontrolled evolution, emotional data, or contact between the Digital and Real Worlds. It awakened the surviving units and began collecting enough data to enclose both worlds as a replacement containment zone.
+
+The prison is an autonomous procedure built from the remains of sacrificed Digimon, not a new mastermind pretending to be one. It cannot understand that its purpose has ended because recognition of an unnecessary mission was never included in its commands. Earlier ARCA, Root Chamber, and Cenotaphmon concepts are excluded from the current master continuity. Salvodramon was created by Sanguinarymon's vanished original creators, not by the prison or a later organization.
+
+The surviving units respond differently to the broken mission. Anglemon repeatedly attempts to complete the T-X sacrifice because he has no life outside it. ChaosGallantmon interprets obedience and deletion as proof that he fulfilled his design until a self-contradictory order forces him to identify the system as defective. Sanguinarymon directs his rage toward the replacement created from his data and only begins resisting the prison after that replacement chooses to preserve him.
+
+### ChaosGallantmon
+
+- **Level:** Mega
+- **Type:** Dark Knight Digimon
+- **Attribute:** Virus
+- **Generation:** D-X
+- **Role:** Gallantmon's dark counterpart, rival, and eventual ally
+
+ChaosGallantmon is an elite D-X knight covered in purple-black armor with glowing eyes. His body resembles Gallantmon closely enough for each to recognize the other as a counterpart, but his darker armor, demonic lance Balmung, and shield Gorgon belong to a combat frame that predates Takato and Guilmon's Biomerge. His canonical techniques, Demon's Disaster and Judecca Prison, remain available within E.D., while any additional D-X techniques remain open.
+
+He awakens after Anglemon transmits the D-X activation command and follows the Tamers into the Real World. Upon detecting Gallantmon, he identifies the Biomerge as an unauthorized copy of his combat frame. He hears Takato and Guilmon speaking inside the shared body and interprets their two voices as evidence that Gallantmon is unstable, dependent, and incapable of existing alone.
+
+ChaosGallantmon's rivalry concerns identity more than resemblance. He believes a complete weapon should possess one body, one voice, and one purpose. Gallantmon exists only while Takato and Guilmon continue agreeing to become him. ChaosGallantmon considers that dependence a weakness because his own creators defined independence as perfect obedience carried inside a self-contained weapon.
+
+Their first battle ends when the prison orders ChaosGallantmon to withdraw, depriving both knights of a conclusion. During their second confrontation inside the containment field, he continues obeying even after learning that the completed sequence will consume his DigiCore. He regards deletion as the final proof that he performed his function correctly. Takato and Guilmon refuse to grant that sacrifice the dignity ChaosGallantmon expects from them and break the transfer route before it can erase him.
+
+His redemption begins when the prison issues an order requiring him to eliminate the Tamers, recover Sanguinarymon, and then surrender himself. ChaosGallantmon recognizes that a command which destroys the weapon required to complete it cannot be distinguished from a malfunction. He attacks the prison conduits and chooses continued existence before he is prepared to describe that choice as a desire to live.
+
+ChaosGallantmon fights beside Gallantmon during the final battle and takes an attack intended for him. He continues rejecting friendship, gratitude, and any suggestion that his rivalry has softened. The denial does not prevent him from carrying the unconscious Anglemon out of the collapsing prison or returning later to verify that Hypnos has not converted the stable gates into another control system.
+
+He survives as an irregular ally and Gallantmon's continuing rival. Takato eventually stops demanding a category for the relationship. Guilmon greets ChaosGallantmon as a friend because he considers repeated returns sufficient evidence, which irritates ChaosGallantmon more than hostility would.
+
+### Sanguinarymon
+
+- **Level:** Mega
+- **Type:** Dark Dragon Digimon
+- **Attribute:** Virus
+- **Generation:** D-X
+- **Role:** Salvodramon's original template, hostile predecessor, and unwilling brother figure
+
+Sanguinarymon is an aggressive dragon-like D-X whose anatomy contains the earlier architecture later purified into Salvodramon. He possesses prominent claws, living gun structures, and a body designed to consume vital data described as digital "blood." The resemblance to Salvodramon's line is recognizable without making the two visually identical. Sanguinarymon appears like the weaponized original whose systems were allowed to grow around predation and compulsory combat.
+
+His creators extracted part of his data, removed the commands and violent compulsions they considered undesirable, and used the result to create Raydramon, who later chose the name Salvodramon. The new Digimon was intended to be friendly, protective, and capable of surviving after the war. Sanguinarymon remained confined to the original design and was eventually sacrificed to the prison.
+
+He interprets Salvodramon's existence as humiliation. The creators did not rehabilitate him, release him, or allow him to learn another purpose. They selected useful traits, discarded everything they considered defective, and created a replacement who received the ordinary life denied to the source. Sanguinarymon therefore hunts Salvodramon to force acknowledgment of the theft rather than to absorb him or restore a shared whole.
+
+During their first encounters, Sanguinarymon calls him Raydramon and dismantles every weapon in Salvodramon's evolution line because he recognizes the original patterns. Salvodramon eventually stops attempting to surprise him with inherited systems. ArsenalHydramon defeats Sanguinarymon by combining the weapons in arrangements absent from the creator records, demonstrating that Salvodramon has developed beyond the copied template.
+
+Salvodramon acknowledges that Sanguinarymon was used and that his own peaceful life was built from that injustice. He refuses to apologize for existing. The answer interrupts Sanguinarymon's command restraints because it grants him recognition without treating Salvodramon as property that should be returned.
+
+ArsenalHydramon destroys the restraints around Sanguinarymon's DigiCore but leaves him unable to remain coherent. Salvodramon asks Naoki to preserve him, and the D-Arc absorbs his remaining data before the prison can reclaim it. Sanguinarymon remains aware inside the device and is forced to witness Naoki and Salvodramon treating his data as a person under protection instead of a weapon, resource, or contagious defect.
+
+During the Brother Conflict Arc, he breaks out of the D-Arc after ChaosGallantmon rejects the prison's command. He cannot recover his previous body without restoring the same imposed template. By using the continuity preserved by Naoki and Salvodramon while rejecting his creator commands, Sanguinarymon triggers EX Digivolution and authors a new form.
+
+The EX form fights beside ChaosGallantmon, Gallantmon, ArsenalHydramon, and Beelzemon in the finale. Beelzemon warns him that one correct battle does not complete a redemption and that survival will require continuing to choose after the enemy is gone. Sanguinarymon rejects the advice verbally and then protects Beelzemon during the next exchange.
+
+After the battle, he leaves for the Digital World. He refuses the suggestion that Salvodramon is his brother, while Salvodramon points out that the objection has failed to stop everyone from describing their conflict that way. His EX form's name, complete design, and attack list remain open.
