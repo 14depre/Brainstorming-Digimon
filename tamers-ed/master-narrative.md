@@ -99,3 +99,15 @@ Salvodramon initially responds to the revelation with jokes and exaggerated conf
 His line expands the same principle at every level: weapons are generated as parts of a living combat architecture instead of carried equipment. Raygundramon develops heavier mobile firepower, SniperDramon emphasizes extreme-range calculation, and ArsenalHydramon becomes a multi-directional weapons platform capable of inventing firing patterns Sanguinarymon's original records cannot predict.
 
 Salvodramon participates in Abyssdramon, Tangomon, Barnstormon, and Moondramon. These forms respectively combine his targeting with Guilmon's ferocity, Renamon's rhythm, Terriermon's improvisation, and Wulvermon's defensive patience.
+
+#### Wulvermon
+
+Wulvermon is Kei's partner, a gray Beast Man Digimon whose restrained demeanor initially recalls Renamon without duplicating her. He is stoic, kind, and consistently protective of Digimon weaker than himself. Kei meets him while he is holding an underground corridor against hunters so a group of stranded Digimon can escape. Their partnership forms when Wulvermon accepts Kei's plan instead of remaining behind alone.
+
+Wulvermon's calm is both a strength and a dangerous habit. He endures damage without announcing it and treats his own survival as less important than completing a rescue. Kei's relaxed exterior allows him to recognize this behavior without confronting it through emotional pressure. Their D-Arc becomes strongest when Wulvermon accepts that being protected does not make him unreliable.
+
+His origin remains connected to the ancient command language, although his exact relationship to the T-X and D-X system is less completely documented than Salvodramon's. The containment system identifies him as defective and attempts to reclaim him as property. His individual evolution line remains under development and should not be filled with temporary names.
+
+Wulvermon participates in Moondramon, Parhelimon, Breakwatermon, and Cairndramon. All four forms preserve his protective nature while forcing it into a different behavior: active interception, shared emotional guardianship, safe absorption and release, or searching for people others have classified as unrecoverable.
+
+Wulvermon is deleted while pulling Renamon out of the failed Taikyokumon restoration. His scattered data is later recovered from the prison archive and reconstructed through Mao, Lilithmon, Henry, and Kei's combined work. The restored Wulvermon recognizes Kei and retains their shared history. His recovery establishes that reconstruction can preserve a person's continuity when it is performed around an existing bond and permits the restored individual to continue changing.
