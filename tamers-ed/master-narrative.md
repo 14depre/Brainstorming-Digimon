@@ -504,3 +504,17 @@ Chaosmon is included in this section because his body demonstrates the permanent
 Sanguinarymon's final form is not a fusion. EX Digivolution occurs when he rejects the combat template, creator commands, and assigned purpose that previously defined his body. The data Salvodramon and Naoki preserved gives him enough continuity to author a new form instead of returning as the same D-X weapon.
 
 This distinction matters within the fusion system. DNA Digivolution creates a shared temporary self, Biomerging joins a Tamer and partner, and reconstruction restores a damaged existing person. EX Digivolution allows one Digimon to rewrite what his own data is permitted to become. The final name, visual sheet, and attack list for Sanguinarymon's EX form remain open.
+
+## Trivia
+
+- Runaway Locomon is outside the E.D. continuity because this story requires the partners' return after thirteen years to be their first reunion. Rika's unresolved feelings toward her father are retained and developed through new events rather than the Locomon incident.
+- Battle of Adventurers can remain canon because it does not prevent the thirteen-year separation or the later reunion.
+- Taikyokumon separated voluntarily. The story's central family conflict comes from the surviving sisters misunderstanding an act of love as a mistake they were expected to reverse.
+- Tsukikagemon and Nichirinmon look significantly more elaborate than Renamon because they retained older, higher-level bodies and much more of Taikyokumon's original data. Renamon's simpler appearance reflects her rebirth at the Rookie level, not lesser importance.
+- Renamon is the only sister with no original memories. She is also the one who inherited choice and adaptability, making the apparently "missing" fragment the person most capable of changing what their reunion means.
+- Guilmon is the first member of the original cast to call Tsukikagemon and Nichirinmon Renamon's sisters. Everyone else is still trying to understand the data when he treats the relationship as obvious.
+- Guilmon initially assumes that discovering Renamon has sisters means two more guests should be invited to the bakery. He does not revise this position after learning that both of them nearly defeated Gallantmon and MegaGargomon.
+- Early Taikyokumon uses singular language because the restoration suppresses the sisters' individual identities. The completed final-battle form uses plural language while acting as one body.
+- Renamon remains the most reserved of the three sisters. Nichirinmon usually initiates physical affection, Tsukikagemon pretends to tolerate it, and Renamon participates while behaving as though she has been placed under protest.
+- Rika keeps the badly framed family photograph even though Guilmon's last-second entrance blocks part of Nichirinmon and one of Tsukikagemon's ears is outside the image.
+- Mao can fall asleep in unsafe or inconvenient places because she assumes Lilithmon will eventually pick her up and carry her home. Lilithmon complains every time and has never left her there.
