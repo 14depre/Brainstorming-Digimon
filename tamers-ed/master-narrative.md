@@ -518,3 +518,10 @@ This distinction matters within the fusion system. DNA Digivolution creates a sh
 - Renamon remains the most reserved of the three sisters. Nichirinmon usually initiates physical affection, Tsukikagemon pretends to tolerate it, and Renamon participates while behaving as though she has been placed under protest.
 - Rika keeps the badly framed family photograph even though Guilmon's last-second entrance blocks part of Nichirinmon and one of Tsukikagemon's ears is outside the image.
 - Mao can fall asleep in unsafe or inconvenient places because she assumes Lilithmon will eventually pick her up and carry her home. Lilithmon complains every time and has never left her there.
+- Lilithmon's emotional farewell at the end is completely sincere. Mao genuinely plans to return on Friday; she simply allows Lilithmon to finish because she wants to hear what her mother will say.
+- Sanguinarymon and Salvodramon reject the word "brothers" whenever anyone applies it to them. This causes the rest of the cast to use it more often.
+- ChaosGallantmon continues insisting that he is Gallantmon's rival rather than his friend. Guilmon does not recognize the distinction.
+- Anglemon is the last surviving T-X. His survival leaves one member of the mass-produced first line alive after the far rarer D-X units receive most of the historical attention.
+- Anglemon's appearance makes him exceptionally bad at greeting peaceful travelers. His later gate duty begins with several incidents in which he attempts to say "passage authorized" and causes everyone present to flee.
+- The T-X and D-X were not originally evil. Their antagonism comes from waking inside a broken mission, receiving commands from a prison that cannot recognize its prisoner is gone, and having no identity outside the functions their creators assigned them.
+- DNA Digivolution, Biomerging, Taikyokumon's voluntary fusion, Chaosmon's permanent condition, and EX Digivolution all approach shared identity differently. The plot distinguishes them through what the characters choose and whether the people inside a combined form are allowed to remain people.
