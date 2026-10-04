@@ -80,3 +80,22 @@ Terriermon contributes adaptability, compact power, unconventional problem-solvi
 | Champion | Gargomon |
 | Ultimate | Rapidmon |
 | Mega/Biomerge | MegaGargomon |
+
+#### Salvodramon
+
+Salvodramon is Naoki's partner and a Rookie artillery Digimon capable of producing firearms from his own data. He is cocky, inventive, and intensely pleased by any plan that concludes with an explosion he can claim was intentional. Naoki's cautious temperament makes him the usual straight man in their partnership, although Salvodramon trusts Naoki's judgment when a battle stops being entertaining.
+
+The ancient creators produced Salvodramon from purified data extracted from Sanguinarymon. They removed the commands and violent compulsions they considered dangerous, then designed a friendly protector capable of living beyond the war. The process gave Salvodramon a life Sanguinarymon had been denied. It also reduced the original D-X to a collection of traits that other people believed could be improved.
+
+Salvodramon initially responds to the revelation with jokes and exaggerated confidence. He later accepts that Sanguinarymon was exploited without accepting the claim that his own existence is an insult. Raydramon, the designation found in the creator file, remains part of his origin. Salvodramon is the name attached to the person who met Naoki and made choices beyond that design.
+
+| Level | Form |
+|---|---|
+| Rookie | Salvodramon |
+| Champion | Raygundramon |
+| Ultimate | SniperDramon |
+| Mega | ArsenalHydramon |
+
+His line expands the same principle at every level: weapons are generated as parts of a living combat architecture instead of carried equipment. Raygundramon develops heavier mobile firepower, SniperDramon emphasizes extreme-range calculation, and ArsenalHydramon becomes a multi-directional weapons platform capable of inventing firing patterns Sanguinarymon's original records cannot predict.
+
+Salvodramon participates in Abyssdramon, Tangomon, Barnstormon, and Moondramon. These forms respectively combine his targeting with Guilmon's ferocity, Renamon's rhythm, Terriermon's improvisation, and Wulvermon's defensive patience.
