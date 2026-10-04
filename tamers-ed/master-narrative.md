@@ -106,8 +106,27 @@ Wulvermon is Kei's partner, a gray Beast Man Digimon whose restrained demeanor i
 
 Wulvermon's calm is both a strength and a dangerous habit. He endures damage without announcing it and treats his own survival as less important than completing a rescue. Kei's relaxed exterior allows him to recognize this behavior without confronting it through emotional pressure. Their D-Arc becomes strongest when Wulvermon accepts that being protected does not make him unreliable.
 
-His origin remains connected to the ancient command language, although his exact relationship to the T-X and D-X system is less completely documented than Salvodramon's. The containment system identifies him as defective and attempts to reclaim him as property. His individual evolution line remains under development and should not be filled with temporary names.
+His origin remains connected to the ancient command language, although his exact relationship to the T-X and D-X system is less completely documented than Salvodramon's. The containment system identifies him as defective and attempts to reclaim him as property.
+
+| Level | Form |
+|---|---|
+| Rookie | Wulvermon |
+| Champion | Tarnwulmon |
+| Ultimate | Sarosmon |
+| Mega | Lunarchmon |
 
 Wulvermon participates in Moondramon, Parhelimon, Breakwatermon, and Cairndramon. All four forms preserve his protective nature while forcing it into a different behavior: active interception, shared emotional guardianship, safe absorption and release, or searching for people others have classified as unrecoverable.
 
 Wulvermon is deleted while pulling Renamon out of the failed Taikyokumon restoration. His scattered data is later recovered from the prison archive and reconstructed through Mao, Lilithmon, Henry, and Kei's combined work. The restored Wulvermon recognizes Kei and retains their shared history. His recovery establishes that reconstruction can preserve a person's continuity when it is performed around an existing bond and permits the restored individual to continue changing.
+
+#### Lilithmon
+
+Lilithmon is Mao's partner, adoptive mother, and a member of the Seven Great Demon Lords. She entered Mao's life as a wounded Mega-level Digimon during the D-Reaper crisis. Their relationship began through mutual use and became a genuine family over thirteen years. Lilithmon remains dangerous, proud, and morally hostile toward much of the world. Loving Mao does not convert her into a gentle or conventionally heroic Digimon.
+
+Mao's black-and-gold D-Arc functions as a stabilizer, anchor, and power regulator. Lilithmon resisted the original forced return until her body began losing cohesion, and the emergency link preserved her by storing part of her damaged data. Large releases of power can reopen the injury and threaten them both, preventing Lilithmon from resolving every conflict through the strength expected of a Demon Lord.
+
+Lilithmon's central development concerns possession. She has no difficulty destroying someone to protect Mao. Allowing Mao to develop friendships, accept employment, and spend part of the week elsewhere requires more effort because Lilithmon learned family through permanent physical proximity. Their Biomerge, Caritasmon, makes this conflict physical by creating a form whose strength depends on maintaining love without turning it into ownership.
+
+#### Returning Support Partners
+
+Guardromon, MarineAngemon, Lopmon, Cyberdramon, and Impmon return through later breaches and reunite with Kazu, Kenta, Suzie, Ryo, Ai, and Mako. They protect the outer routes during the final descent into the prison. Impmon again reaches Beelzemon and confronts Sanguinarymon about the assumption that one heroic battle can complete a redemption. Calumon remains unpartnered and uses the Catalyst to prevent the prison from repeatedly stripping evolved Digimon back to lower levels.
