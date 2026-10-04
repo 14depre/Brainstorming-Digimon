@@ -1,5 +1,7 @@
 # Digimon Tamers: E.D. — Master Narrative
 
+> **Reference draft, not final canon.** This document collects every idea, profile and event written so far. The story is being restructured from zero with proper pacing; see `restructure-plan.md`. Treat everything here as source material, not a locked sequence.
+
 **Status:** Work-in-progress master narrative. This document preserves the established five-arc structure, character relationships, renamed concepts, and locked story events. It also supplies connective scenes and a complete final conflict so the current material can be read as one continuous story. Individual attacks, several evolution lines, and episode-level divisions remain open for later development.
 
 ## Continuity
