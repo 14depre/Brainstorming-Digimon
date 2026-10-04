@@ -132,6 +132,82 @@ Anglemon attempted to stop the expansion by obeying the original sequence and re
 
 The arc ended when the prison opened above Shinjuku as a dark circular field. Buildings, networks, and Digimon within its radius began converting into a motionless archive. ChaosGallantmon and Sanguinarymon received orders to enter the field and surrender their DigiCores. Both obeyed, while the Tamers followed them into the forming seal.
 
+### Final Battle Arc
+
+Hypnos prepared to sever every known connection between the worlds. The measure would slow the prison but would also return the Digimon and make another reunion impossible. Yamaki gave the Tamers the choice before activating it. Takato objected until Guilmon reminded him that remaining together inside a sealed world would not be the life either of them had wanted. Rika asked Henry how long they had before the separation became necessary. He estimated several hours.
+
+The Tamers entered the Digital World through the largest remaining breach and descended toward the central chamber. Kazu and Guardromon, Kenta and MarineAngemon, Ryo and Cyberdramon, Suzie and Lopmon, and Ai and Mako with Impmon protected the outer routes while Hypnos kept the passage open. Jeri joined the support team and remained in contact with Chaosmon, whose unstable body allowed him to sense where the prison was forcing incompatible data together.
+
+Calumon remained near the D-Arc network and used the Catalyst to keep the Digimon from being forced back to their lower levels whenever the prison drained an evolution. He could not hold every form indefinitely, but the support allowed the different pairs to rotate through the core instead of depending on one final attack.
+
+Chaosmon initially refused to enter the central route. Destroying the containment system risked separating or deleting the DigiCores that composed him. Jeri told him that she could not promise survival and would not decide that becoming BanchoLeomon, Darkdramon, or anyone else was a better outcome than remaining Chaosmon. He agreed to guide the Tamers after establishing that the decision was his.
+
+Anglemon guarded the final entrance. Much of his body had been replaced by prison material, and the command system used his lure to draw the Tamers toward false routes. He attacked Wulvermon and Salvodramon as escaped property while continuing to demand that the others retreat from a containment zone. Naoki realized that the warning was Anglemon's own speech breaking through the orders.
+
+Salvodramon and Wulvermon became Moondramon and severed the restraints connecting Anglemon to the gate. The attack freed him but left the entrance without the living component required to open it. Anglemon placed himself back into the mechanism long enough to release the lock. Before the prison could absorb him again, Moondramon pulled him out and carried him through. Anglemon remained damaged but alive, becoming the only surviving T-X unit after the destruction of the remaining chambers.
+
+Inside the central chamber, the Tamers found that the prison had no ruler. The surrounding structure was the combined remains of the units who had sacrificed themselves to contain the D-Reaper. Their final orders had continued operating after their minds disappeared. Every attack, promise, and command issued since the partners returned had come from the containment procedure attempting to replace missing components and restore a purpose that no longer existed.
+
+The system began copying the Tamers' emotional data because their partnerships produced the strongest stable connections between worlds. It created false returns in which Takato, Rika, Henry, and the others could remain with their partners if they stopped resisting. Takato saw the bakery unchanged from his childhood with Guilmon asleep beneath the bread racks. Henry saw a laboratory in which every gate operated safely and Terriermon could never be injured. Rika saw Renamon waiting at home and her father arriving at the time he had promised.
+
+Rika recognized the false world when the version of her father apologized correctly. The prison had assembled the response from her memories and removed every uncertainty that made the real relationship difficult. She destroyed the copy before it finished speaking and found Renamon inside a separate illusion of Taikyokumon's restored life. Renamon had already rejected it because Tsukikagemon and Nichirinmon behaved as extensions of one mind rather than her sisters.
+
+Takato remained inside his false life longer. Guilmon eventually asked why Takato had stopped drawing. The illusion could reproduce the Guilmon Takato remembered but could not imagine an answer he had never given. Takato opened his notebook and drew a line the system had not predicted. The false bakery broke apart, allowing him and Guilmon to reach the central chamber.
+
+Henry and Terriermon escaped their illusion by deliberately introducing an unsafe variable into its perfect network. Henry admitted that his attempt to prevent every future separation had made him treat uncertainty as a technical failure. Terriermon triggered the final error by touching a control Henry had told him to leave alone. They rejoined the group while arguing over whether the action had been necessary.
+
+The prison then activated the archived bodies of the dead T-X and D-X. ChaosGallantmon and the EX-evolved Sanguinarymon held them back, fighting beside Gallantmon and ArsenalHydramon. ChaosGallantmon took a strike intended for Gallantmon and objected when Takato interpreted the act as friendship. Sanguinarymon destroyed a copy of his original body after it attempted to resume control of Salvodramon's weapons.
+
+Beelzemon joined their position when the outer defenses collapsed. He recognized that Sanguinarymon expected one battle on the correct side to settle everything that had preceded it. Beelzemon told him that survival would require making the same decision again after the battle ended. Sanguinarymon answered that he had not asked for instruction and then covered Beelzemon while he reloaded.
+
+The central mechanism could not be destroyed through ordinary attacks because damage caused it to absorb more surrounding data. Henry determined that it had to be given a completed shutdown sequence from within its own structure. Anglemon possessed the opening segment as a T-X, while ChaosGallantmon and Sanguinarymon carried separate D-X authorizations. The final segment belonged to the voluntary living component at the heart of the old seal, a position originally filled by the units surrendering their DigiCores.
+
+The Tamers refused to replace the original sacrifice with another. Mao proposed using the D-Arcs as temporary anchors while the Digimon entered and returned before the sequence closed. Henry warned that no single partnership could maintain every connection. Takato suggested linking the devices in the same manner as DNA Digivolution, allowing each pair to carry part of the strain.
+
+The prison attacked before they could complete the network. Guilmon and Terriermon formed Jabberwockmon to protect Henry and Mao while they connected the D-Arcs. Renamon and Salvodramon became Tangomon and cleared the conduits leading to the core. Guilmon and Wulvermon formed Cairndramon after Jabberwockmon separated, using Wulvermon's memory of the archive to navigate paths that changed whenever the prison detected them.
+
+Renamon and Wulvermon became Parhelimon to hold the central route. The fusion no longer destabilized because neither Digimon used it to avoid an individual decision. Rika and Kei maintained the form while Tsukikagemon and Nichirinmon entered the core from opposite sides.
+
+The sisters attempted to reproduce Taikyokumon again, this time without Renamon. The form remained incomplete until Renamon placed a temporary copy of her data into the connection while keeping her DigiCore anchored to Rika. Taikyokumon formed with three distinct voices. When the prison identified it as the restored original, Taikyokumon corrected the command and referred to itself as "we."
+
+Taikyokumon entered the oldest layer of the seal and recovered the final shutdown segment. Tsukikagemon supplied the complete memory of the original containment, Nichirinmon forced the sequence forward against the prison's resistance, and Renamon altered the fixed command so it could end without consuming the living keys. Rika maintained Renamon's path back while refusing to order her to return before the work was complete.
+
+The containment system attempted to close around Taikyokumon. Chaosmon entered the mechanism and held its incompatible layers apart, risking the separation of his DigiCores. Caritasmon supported him by extending Mao and Lilithmon's anchor through the D-Arc network. The link allowed the fused Digimon to remain themselves while the shutdown moved through them.
+
+Anglemon issued the T-X sequence. ChaosGallantmon and Sanguinarymon supplied the D-X authorizations. Gallantmon, ArsenalHydramon, MegaGargomon, and the other Digimon struck the exposed conduits in order, preventing the system from replacing each command after it was entered. Taikyokumon delivered the final segment and removed the instruction that classified uncontrolled life as a containment target.
+
+The prison began to collapse. Taikyokumon separated inside the core, leaving Tsukikagemon, Nichirinmon, and Renamon on different paths. Renamon could have followed either sister but returned through the connection to Rika. Tsukikagemon and Nichirinmon escaped through paths maintained by Chaosmon and Caritasmon. ChaosGallantmon carried Anglemon after the T-X lost consciousness, while Sanguinarymon refused Salvodramon's help until the floor beneath him disappeared and ArsenalHydramon caught him anyway.
+
+The Tamers reached the Digital World as the central chamber folded into inactive data. The shutdown passed through the breaches and released every person and Digimon archived in Shinjuku. Hypnos prepared to sever the final connection, but Henry discovered that the D-Arc network had replaced the prison's forced passage with a stable set of limited gates. The partners no longer needed to be returned immediately. Travel would remain controlled and difficult, but separation was no longer an automatic condition of survival.
+
+### Epilogue
+
+Takato returned to the bakery with Guilmon and began drawing again. He no longer treated every design as a promise to create a life, but he stopped treating his imagination as something dangerous enough to abandon. Guilmon resumed sleeping in the places least convenient for the bakery and learned that bread left unattended for customers was still not his.
+
+Henry continued working with Hypnos on the stable gates. Terriermon regularly interrupted formal demonstrations and became familiar enough to the staff that several security procedures included instructions specifically written for him. Henry offered Mao an internship based on the interface work she had performed during Wulvermon's reconstruction and the final D-Arc network.
+
+Mao accepted after confirming that the position did not require her to surrender her D-Arc or separate from Lilithmon. She arranged to stay near the placement during the working week. Lilithmon interpreted the move as a permanent departure and delivered a tearful farewell about allowing her daughter to live beyond the refuge they had built. Mao waited until she finished and explained that she would return every Friday and remain through the weekend. Lilithmon accused her of allowing the misunderstanding deliberately. Mao admitted that she had wanted to hear the speech.
+
+Kei remained involved with Hypnos as an independent field Tamer and continued playing cards for money despite receiving legitimate work. Wulvermon recovered gradually and stayed close to him during the first months after reconstruction. His relationship with Renamon developed without an immediate declaration from either of them. Kei and Rika recognized it, while Guilmon believed they were already married because Wulvermon had once shared food with her.
+
+Naoki and Salvodramon helped monitor Digimon arriving through the new gates. Salvodramon continued using the name chosen during his independent life and retained Raydramon as the designation found in his creation file. Sanguinarymon disappeared into the Digital World after the final battle. Before leaving, he told Salvodramon that he had no interest in becoming family with a copy. Salvodramon answered that the objection had arrived too late to prevent everyone else from calling their conflict a brother problem.
+
+ChaosGallantmon survived and refused permanent association with Hypnos or the Tamers. He returned at irregular intervals to challenge Gallantmon and to verify that the gates were not being converted into another control system. Takato stopped asking whether this made him an ally. Guilmon continued greeting him as one.
+
+Chaosmon also survived the collapse, although his two DigiCores required time to stabilize after holding the prison open. Jeri visited without comparing him to Leomon. Chaosmon accepted the company and continued objecting whenever anyone described the visits as friendship.
+
+Anglemon remained the last surviving T-X. With the command network gone, he had no orders and initially followed the Tamers because they were the only available continuation of his final mission. He eventually became a guardian of the oldest Digital World gate. His appearance continued frightening new arrivals, while his attempts to reassure them generally made the situation worse.
+
+Rika resumed contact with her father under conditions she established herself. She did not excuse the years of absence or assume that one visit repaired the relationship. When he failed to arrive for an early meeting, she left instead of waiting through the evening. He contacted her later with an explanation, and she decided whether to accept another meeting without allowing the decision to determine her worth.
+
+Renamon divided her time between Rika and her sisters. Tsukikagemon and Nichirinmon initially remained formal around Rika because they believed she was evaluating whether they could be trusted near Renamon. Rika confirmed that she was. The tension lessened after Nichirinmon began visiting without warning and Tsukikagemon quietly learned the household's routines.
+
+The three Digimon never restored Taikyokumon permanently. They could form it when all three chose to do so, but the fusion no longer described Renamon as a missing part or treated the sisters as incomplete fragments. Their shared form retained separate voices and returned each participant unchanged.
+
+During their first attempt at a family photograph, Nichirinmon pulled Renamon toward the center while Tsukikagemon corrected everyone's position several times. Renamon endured the arrangement with visible resignation and did not move away. Guilmon entered the photograph at the last moment because he believed discovering sisters made him part of the event. Rika kept the resulting picture.
+
+On another evening, Rika found all three asleep together after Nichirinmon had insisted there was enough room. Tsukikagemon had arranged the blankets, Nichirinmon occupied most of the available space, and Renamon was pinned between them. Renamon opened one eye when Rika entered and stated that intervention was unnecessary. Rika left them there and closed the door.
+
 ## Characters
 
 ### Partners
