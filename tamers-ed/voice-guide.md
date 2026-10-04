@@ -130,3 +130,16 @@
 - **Kenta:** catastrophizes ("we're doomed"), gets motion sick, is loyal anyway.
 - **Ryo:** cocky charm, teases Rika, quietly competent.
 - **Calumon:** talks himself into bravery out loud, then thinks about cream puffs.
+
+## Observed in the D-Reaper arc family dinner
+
+- **Rika with her mom:** sarcastic, complains about small things to vent bigger stress, and answers "I heard that" with "Good." She agrees to family time on the surface while gripping her D-Power under the table.
+- **Rika's inner voice:** short and worried about other people (Jeri), never about herself.
+- **Renamon:** restless when friends are in danger ("I don't think I can just sit here"). Polite, factual correction of Rumiko: Digimon aren't divided into genders.
+- **Rumiko:** flamboyant compliments and instant acceptance. Renamon is "still part of our family."
+- **Seiko:** gentle, direct and quietly firm about family time.
+
+### E.D. callbacks this sets up
+- Rumiko's hug in the Reunion Arc pays off "you're still part of our family."
+- Komainudramon's lesson (winning by standing still) mirrors Renamon being unable to sit still at this dinner.
+- **Possible gag:** a family dinner with the sisters where Rumiko asks the same question. Renamon gives the same factual answer; Nichirinmon overrules her with "We're sisters. Obviously."
