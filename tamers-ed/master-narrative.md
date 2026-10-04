@@ -382,3 +382,125 @@ Beacon Howl locates surviving signals and allows separated allies to hear the di
 The fusion is gentle, stubborn, and unable to ignore a credible call for help. False distress signals can lure it into traps, and the number of possible rescues can force Takato and Kei to choose whom the form can reach. Cairndramon must learn that marking a route and retreating can save more lives than allowing the pathfinder itself to become lost.
 
 During the final descent, Cairndramon uses Wulvermon's memory of the archive to navigate routes that change whenever the prison detects the Tamers. Its primary contribution is bringing separated characters back together and constructing an escape. It reaches the final conflict by refusing to treat lost people as already dead, yet its limitation prevents that hope from becoming an effortless reversal of deletion.
+
+### Harequinmon
+
+- **Components:** Renamon + Terriermon
+- **Tamers:** Rika + Henry
+- **Role:** Deception, misdirection, and information control
+
+Harequinmon is a slender masked rabbit-fox acrobat with an asymmetrical body and a split smiling mask. Long ribbon-like ears conceal emerald and violet cannons. Its limbs end in nonhuman acrobatic feet, and folding mirror or portal structures appear around it like pieces of a portable stage. Fans created from duplicate and seal data allow it to redirect attention without depending on conventional invisibility.
+
+The form manipulates what combatants believe belongs to whom. It can exchange appearances, apparent positions, attack signatures, and the visible source of injuries. An enemy may perceive Harequinmon standing where an ally is located, identify its own projectile as hostile, or defend against the correct technique arriving from the wrong direction. The battlefield remains physically real; Harequinmon controls the information used to interpret it.
+
+Renamon supplies observation, timing, and ritual seals. Terriermon supplies humor, improvisation, and a willingness to exploit an opponent's assumptions. Their combined personality is tactical and mischievous. Harequinmon performs for its enemy because every reaction provides more information to rearrange.
+
+The mechanic requires precision. Harequinmon must understand the elements it exchanges, and widespread indiscriminate attacks reduce the value of misdirection. Its chronology and final named techniques remain open, but its completed visual identity and information-control function are established. The form gives Rika and Henry a battle in which victory depends on trusting an apparently unserious plan whose structure only Henry can fully track.
+
+### Tangomon
+
+- **Components:** Renamon + Salvodramon
+- **Tamers:** Rika + Naoki
+- **Role:** Rhythmic precision gunfighter and controlled crowd specialist
+
+Tangomon is a tall bipedal dragon-fox performer whose body resembles a stage coat constructed from burgundy bio-armor. Cream fur forms a collar and tail shapes, luminous green vine markings cross the armor, and its narrow reptilian face carries Renamon-like markings beneath a veil that hides the eyes while leaving a confident mouth visible. Its split ribbon-tail and rose-like weapons reinforce the appearance of a dancer built from living artillery.
+
+Tangomon's firearms transform between pistols, blades, fans, and rose-shaped gun arrays. Every shot belongs to a sequence of steps. Renamon controls movement, spacing, and the opponent's position, while Salvodramon builds the firing pattern around her rhythm. This structure allows Tangomon to disable a crowded installation without striking prisoners stored inside it.
+
+Tango de Muerte is the form's defining sequence, drawing one or more opponents into a lethal pattern of paired shots and blade movements. Curtain Call closes the available routes with crossing fire, while Dramatic Finale converts the established rhythm into a concentrated finishing discharge. The latter names remain available for later attack-sheet refinement, while Tango de Muerte is the protected core technique.
+
+Tangomon is sophisticated, smug, controlled, and openly theatrical. It reveals that Renamon possesses pride and performative pleasure beneath her restraint, while Salvodramon's weapon data becomes art instead of proof that he was designed for combat. Its weakness is disrupted rhythm. Irrational movement, environmental interruptions, or an opponent willing to injure itself to break the expected step can collapse the choreography.
+
+Tangomon's first formation fails because Rika commands the movement and fire as though both belong to Renamon, while Naoki waits for Salvodramon's confirmation. On their second attempt, Rika directs the dance and Naoki establishes the firing pattern. The form succeeds after neither Tamer treats the other partner as borrowed equipment.
+
+### Parhelimon
+
+- **Components:** Renamon + Wulvermon
+- **Tamers:** Rika + Kei
+- **Role:** Celestial guardian and precision route-holder
+
+Parhelimon is one quadrupedal Digimon, not two linked bodies. Its final silhouette resembles an elegant kirin-hound with interlocking ivory, charcoal, gold, and violet sections. Halo and parhelion discs surround the body as controlled celestial structures, combining Renamon's ritual precision with Wulvermon's protective wolf-like presence. The design resembles an eclipse held in balance instead of a simple light-and-dark split.
+
+The form establishes a guarded route and controls how hostile force approaches it. Renamon identifies the exact point at which an attack can be redirected, while Wulvermon supplies the endurance to remain between that attack and the people behind them. Its halo structures mark permitted passages and create false suns that divide enemy targeting.
+
+Parhelimon initially fails because Renamon uses fusion to avoid answering her sisters and Wulvermon focuses on protecting her from the decision. Their intentions appear compatible, but both are using protection to prevent Renamon from acting. The later fusion succeeds after Wulvermon accepts that her choice belongs to her and Renamon accepts that his support does not automatically become control.
+
+During the final battle, Parhelimon holds the central route while Tsukikagemon and Nichirinmon enter the core. Its complete attack list remains open pending the final reference profile. The established design and story role emphasize sustained celestial defense, route control, and precise redirection rather than raw explosive power.
+
+### Barnstormon
+
+- **Components:** Terriermon + Salvodramon
+- **Tamers:** Henry + Naoki
+- **Role:** Momentum-based aerial artillery and pursuit
+
+Barnstormon is a masked aerial stunt-gunner built around the silhouette of a living kite. It has a triangular torso, a smug mask and grin, enormous gun-sails, a reaching hand, narrow spring-loaded legs, and a floating daredevil posture. The final design avoids fur and does not resemble Salvodramon wearing flight equipment. Its entire body functions as a changing aerodynamic weapon.
+
+Barnstormon generates power through continued movement. Turns load its gun-sails, dives compress data through its frame, and rolls redistribute recoil into the next maneuver. Terriermon's improvisation prevents the flight path from becoming predictable, while Salvodramon's targeting system calculates how every stunt can become a firing angle.
+
+Working signature techniques include Immelmann Salvo, which fires during a vertical reversal; Deadstick Dive, which cuts visible propulsion and converts a silent fall into a close-range discharge; and Victory Roll, which releases stored ammunition through a complete rotating arc. The names can be refined with the final attack sheet, while the momentum mechanic and visual design are established.
+
+Barnstormon projects cocky comedic bravado and treats every aerial risk as part of the performance. The behavior conceals genuine fear produced by combining Henry's caution with Naoki's awareness that Salvodramon habitually overcommits. Its weakness is the loss of momentum. Enclosed spaces, forced hovering, or damaged gun-sails interrupt the accumulated sequence and leave the light frame vulnerable.
+
+Its exact chronological debut remains open. The intended character function gives Henry and Naoki a shared problem: both prefer to manage risk from outside it, while their partners produce a form that survives by moving through the danger before fear can become paralysis.
+
+### Breakwatermon
+
+- **Components:** Terriermon + Wulvermon
+- **Tamers:** Henry + Kei
+- **Role:** Mobile sanctuary, rescue titan, and kinetic-force redirection
+
+Breakwatermon is a gigantic amphibious harbor guardian with a wide organic silhouette that remains powerful without becoming bulky or comical. Its face is tiny, gentle, and recessed within the upper body. Flowing ear-fins frame the head, while enormous arms contain visible channels of luminous water-like data. The navy, ivory, and aqua palette gives it the appearance of a living sea wall.
+
+The fusion absorbs kinetic force and stores it as luminous fluid moving through the arms and torso. Physical impacts, collapsing structures, and explosive pressure can be drawn away from people inside its protected area. Breakwatermon later redirects that force into the ground, open space, or an attacking target.
+
+Stillwater Bastion creates a calm defensive zone in which incoming momentum is slowed and collected. Harbor Arms encloses civilians or injured Digimon inside the enormous forelimbs while the fusion continues moving. Undertow Return releases stored impact beneath an enemy or along a safe vector. Safe Boundary marks a temporary area through which violent force cannot pass at full strength.
+
+Breakwatermon is calm, patient, and incapable of false reassurance. In this form, "Momentai" does not mean the danger is imaginary. It means the danger has been recognized and no one inside the harbor will face it alone. This makes Breakwatermon Henry's most important E.D. fusion and turns Terriermon's familiar phrase into an adult form of protection.
+
+The fusion can overload if it continues absorbing force without releasing it. Cracks spread through the body as Wulvermon silently endures the damage and Terriermon insists the situation remains manageable. Henry and Kei must order a discharge before the desire to protect everyone destroys the shelter itself. Its exact first use remains open, but the definitive design, function, and emotional role are established.
+
+### Moondramon
+
+- **Components:** Salvodramon + Wulvermon
+- **Tamers:** Naoki + Kei
+- **Role:** Lunar interception, defensive containment, and extraction
+
+Moondramon is an ivory-and-crimson lunar knight with a blood-eclipse palette. Its armor forms a protective cocoon around a disciplined humanoid guardian silhouette. Enormous paired crescent shields originate from Wulvermon's bracer motifs and can combine into a complete moon disc. Salvodramon's targeting architecture runs through the shields, allowing Moondramon to calculate the path of incoming and outgoing projectiles.
+
+The fusion combines Salvodramon's aggressive range with Wulvermon's defensive patience. It can intercept an attack with one crescent, calculate the resulting movement, and use the second to slice, redirect, or contain the threat. When joined, the full disc becomes a mobile wall capable of carrying injured Digimon through hostile space.
+
+Moondramon is controlled and severe, with Salvodramon's confidence compressed into Wulvermon's refusal to waste movement. Its defensive behavior remains active: it advances, cuts restraints, opens extraction routes, and moves the protected target instead of waiting for the enemy to exhaust itself.
+
+During the final battle, Moondramon severs Anglemon's restraints, pulls him out before the prison can absorb him again, and carries him through the open gate. Its final named techniques remain open pending a dedicated attack sheet. The crescent slice-shields, combined moon disc, projectile calculation, crimson lunar-knight design, and rescue function are established.
+
+## Biomerge and Exceptional Combined Forms
+
+### Gallantmon
+
+Gallantmon is the Mega-level Biomerge of Takato and Guilmon. Its return places two voices in direct contrast with ChaosGallantmon, who initially considers Gallantmon defective because the body depends on continued cooperation between a human and Digimon. Gallantmon's identity is renewed every time Takato and Guilmon choose to fight together; neither participant disappears into the other.
+
+### Sakuyamon
+
+Sakuyamon is the Mega-level Biomerge of Rika and Renamon. The form remains Renamon's principal individual Mega and should not be replaced by Taikyokumon. Sakuyamon represents the complete partnership Renamon built through her life with Rika, while Taikyokumon concerns the family that existed before those memories. Keeping both forms prevents the sisters' origin from consuming Renamon's established history.
+
+### MegaGargomon
+
+MegaGargomon is the Mega-level Biomerge of Henry and Terriermon. It remains the pair's primary heavy combat form. Breakwatermon does not replace it; the DNA fusion provides a different solution centered on absorbing danger and sheltering others, whereas MegaGargomon expresses the overwhelming arsenal Henry once feared allowing Terriermon to use.
+
+### Caritasmon
+
+Caritasmon is the Mega-level Sacred Demon Biomerge of Mao and Lilithmon. Its body joins a human whose technical skill developed through maintaining a damaged link with a Demon Lord whose continued life depends on that same link. The form specializes in anchoring unstable data, preserving separate identities, and holding connections open through conditions that would normally force deletion or separation.
+
+Caritasmon does not purify Lilithmon into a holy replacement or erase her status as a Demon Lord. Its sacred quality comes from how Mao and Lilithmon use their bond. Lilithmon's love remains fierce and dangerous, while Mao remains capable of leaving, disagreeing, and developing a life beyond her mother. The form becomes strongest when protection supports that independence.
+
+Caritasmon first appears during Wulvermon's reconstruction. Mao opens the same stabilizing system that saved Lilithmon thirteen years earlier and extends it to someone whose data has been scattered through the prison. During the final battle, Caritasmon supports Chaosmon and the linked D-Arcs, allowing combined forms to pass through the shutdown sequence without losing the people inside them.
+
+### Permanent Fusion: Chaosmon
+
+Chaosmon is included in this section because his body demonstrates the permanent version of a fusion problem explored elsewhere through temporary forms. BanchoLeomon and Darkdramon remain present, while the emergent Chaosmon cannot separate without placing his own existence at risk. His complete character history appears in Ancient Units, Rivals, and Survivors.
+
+### Sanguinarymon's EX Digivolution
+
+Sanguinarymon's final form is not a fusion. EX Digivolution occurs when he rejects the combat template, creator commands, and assigned purpose that previously defined his body. The data Salvodramon and Naoki preserved gives him enough continuity to author a new form instead of returning as the same D-X weapon.
+
+This distinction matters within the fusion system. DNA Digivolution creates a shared temporary self, Biomerging joins a Tamer and partner, and reconstruction restores a damaged existing person. EX Digivolution allows one Digimon to rewrite what his own data is permitted to become. The final name, visual sheet, and attack list for Sanguinarymon's EX form remain open.
