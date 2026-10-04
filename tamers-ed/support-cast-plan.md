@@ -44,6 +44,14 @@ E.D.'s core questions, for reference:
   - **Her strength is seeing clearly.** When she recognizes the prison's illusions, it reads as earned wisdom, not a relapse.
   - **The partnership isn't a replacement for Leomon.** It's earned through the Chaosmon storyline and happens on Chaosmon's terms, because the choice has to be his.
   - **Timing (proposed):** during his recovery after the final battle, when his triple core stabilizes and her D-Arc wakes pink.
+- **The core of their relationship: "I'll die for you." / "Don't."**
+  - **Chaosmon** believes his existence is an error. Dying for someone would finally make it mean something, so he volunteers for every sacrifice.
+  - **Jeri** has already lost people who died for her or around her. Leomon died protecting her. Someone carrying an echo of Leomon offering to die for her is the one thing she cannot accept.
+  - **His growth:** choosing to *live* for someone instead of dying for them.
+  - **Her growth:** respecting his choices without controlling them, even when he chooses risk. This is E.D.'s "love without ownership" theme from a new angle.
+  - **Finale payoff:** he still holds the prison apart at the risk of deletion, because it's his choice. But this time he fights to come back because she asked him to, and Caritasmon helps him make it.
+  - **Running gag:** he's protective to an absurd degree, looming over her and treating ordinary situations as threats she needs shielding from. She tells him to stop looming.
+  - **Kind of love:** partner love, the same depth as the other Tamer bonds. Romance isn't part of it unless decided otherwise later.
 
 ### Impmon / Beelzemon
 - **Theme:** redemption as a daily choice. He killed Leomon. That never stops being true.
@@ -100,7 +108,7 @@ E.D.'s core questions, for reference:
 ## Open questions
 
 - [x] Jeri and Chaosmon become partners.
-- [ ] Can Jeri and Chaosmon Biomerge, given he's already a permanent fusion?
+- [x] No Biomerge for Jeri and Chaosmon.
 - [ ] Is Tamers' Beelzemon a "real" Demon Lord in E.D. lore?
 - [ ] What did Ryo do during the thirteen years?
 - [ ] What are Kazu's and Kenta's adult jobs?
