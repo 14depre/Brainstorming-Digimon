@@ -18,3 +18,15 @@
 | 12 | Ending | ~15 s | Final beats | — | End card |
 
 **Note:** in the original, the full song's "bridge" is instrumental (#9), so a sung bridge is optional.
+
+## TV size (from the user's second listen-through)
+
+| # | Section | Lines | Notes |
+|---|---|---|---|
+| 1 | Intro | 2 long | Last word held very long, then ~10 s intro beat |
+| 2 | Verse A | 2 long | Ends on the "who am I?" question, then a **small pause** (in the original OP the camera pulls back to show the whole city) |
+| 3 | Verse B / build | 2 long | Slow build; the last word is held long, then a drum roll |
+| 4 | Chorus | 3 long | Hook on line 1 |
+| 5 | Intro reprise | 2 long | Goes straight from the chorus into the intro hook again |
+
+**Backing vocal:** besides the male lead, a faint female voice sings along on the chorus hook, on one later chorus line, and on the intro-reprise hook.
