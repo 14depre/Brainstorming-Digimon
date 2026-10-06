@@ -23,10 +23,10 @@ Mune no oku de nanika ga sawagu
 Mou kakusenai yo, kono SHIGUNARU wa kimi no koe da!
 
 **[Chorus 1]**
-STILL DREAMER! Namae wa jibun de kimeru
-Dare ni mo yuzuranai
-Otona ni natte mo
+STILL DREAMER! Mada yume miteru?
+Otona ni natta kedo
 Ano yume wa zutto koko ni aru
+Namae wa jibun de kimeru
 Kimi ga yobu nara boku wa kotaeru
 
 **[Verse 2]**
@@ -46,19 +46,19 @@ Taiyou to tsuki ga onaji sora ni ukabu you ni
 Mittsu no kodou de hitotsu no uta wo
 
 **[Chorus 3]**
-STILL DREAMER! Namae wa jibun de kimeru
-Dare ni mo yuzuranai
-Otona ni natte mo
+STILL DREAMER! Mada yume miteru?
+Otona ni natta kedo
 Ano yume wa zutto koko ni aru
+Namae wa jibun de kimeru
 Kimi ga yobu nara boku wa kotaeru
 
 **[Instrumental, ~40 s]**
 
 **[Final chorus]**
-STILL DREAMER! Namae wa jibun de kimeru
-Dare ni mo yuzuranai
-Otona ni natte mo
+STILL DREAMER! Mada yume miteru?
+Otona ni natta kedo
 Ano yume wa zutto koko ni aru
+Namae wa jibun de kimeru
 Kimi ga yobu nara boku wa kotaeru
 STILL DREAMER! Namae wa jibun de kimeru
 Juusan-nen goshi no yakusoku wo
@@ -86,10 +86,10 @@ something stirs deep in my chest
 I can't hide it anymore, this signal is your voice!
 
 **[Chorus 1]**
-Still dreamer! I decide my own name
-I won't hand it over to anyone
-Even grown up,
+Still dreamer! Still dreaming?
+I grew up, but
 that dream has always been right here
+I decide my own name
 If you call me, I'll answer
 
 **[Verse 2]**
