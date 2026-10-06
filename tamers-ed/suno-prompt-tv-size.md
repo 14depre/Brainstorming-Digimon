@@ -12,9 +12,10 @@ ballad, sad, acoustic, lo-fi, metal, rap, EDM drop, autotune, screaming, hyperpo
 ## Lyrics box
 ```
 [Intro]
-[Epic Intro, synth strings swell]
+[A cappella sustained single held note, then band enters]
 [Male Vocal, powerful sustained note]
-Still dreamer, hikidashi no oku de nemuru hikari
+Stiiiiiiiiiill dreamer,
+hikidashi no oku de nemuru hikari
 Ima mo kimi wo yonderu yoooooooo!
 
 [Instrumental Break, full band hits, electric guitar riff, driving drums]
