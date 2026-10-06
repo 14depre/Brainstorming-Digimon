@@ -1,6 +1,6 @@
 # Opening Theme: "STILL DREAMER!" (TV size, draft 1)
 
-> **Draft.** Original lyrics for the *Passage Authorized* opening. The vibe takes after the original *Tamers* opening, but no lines are borrowed from it. The romaji and the Spanish are written separately (the Latin dub approach), so they match in feeling, not word for word. Hooks: **STILL DREAMER!** (romaji version, Engrish) and **¡Sigue soñando!** (Spanish version) The show title is deliberately not name-dropped.
+> **Draft.** Original lyrics for the *Passage Authorized* opening. The vibe takes after the original *Tamers* opening, but no lines are borrowed from it. The romaji and the Spanish are written separately (the Latin dub approach), so they match in feeling, not word for word. Hooks: **STILL DREAMER!** (romaji version, Engrish) and **¡Sigue soñando!** (Spanish version). The show title is deliberately not name-dropped.
 
 ---
 
