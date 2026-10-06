@@ -1,6 +1,6 @@
 # Opening Theme: "STILL DREAMER!" (TV size, draft 1)
 
-> **Draft.** Original lyrics for the *Passage Authorized* opening. The vibe takes after the original *Tamers* opening, but no lines are borrowed from it. The romaji and the Spanish are written separately (the Latin dub approach), so they match in feeling, not word for word. Engrish hook: **STILL DREAMER!** The show title is deliberately not name-dropped.
+> **Draft.** Original lyrics for the *Passage Authorized* opening. The vibe takes after the original *Tamers* opening, but no lines are borrowed from it. The romaji and the Spanish are written separately (the Latin dub approach), so they match in feeling, not word for word. Hooks: **STILL DREAMER!** (romaji version, Engrish) and **¡Sigue soñando!** (Spanish version) The show title is deliberately not name-dropped.
 
 ---
 
@@ -38,8 +38,11 @@ STILL DREAMER!
 
 ## Español latino
 
+> Hook: **¡Sigue soñando!** (Spanish chant; no English in this version.)
+
 **[Intro]**
-¡STILL DREAMER!
+¡Sigue soñando!
+¡Sigue soñando!
 
 **[Verso]**
 En el fondo de un cajón
@@ -54,17 +57,17 @@ me cansé de esperar,
 ¡ahora voy por ti!
 
 **[Coro]**
-¡STILL DREAMER!
+¡Sigue soñando!
 ¿Aún sigues soñando?
 Aunque ya crecí,
 ese sueño nunca se fue de mí.
 Guardé mis cartas, guardé mi valor,
 ¡hoy vuelvo a luchar!
-¡STILL DREAMER! Trece años después,
-¡juntos otra vez!
+¡Sigue soñando, sigue soñando,
+trece años después, juntos otra vez!
 
 **[Outro]**
-¡STILL DREAMER!
+¡Sigue soñando!
 
 ---
 
