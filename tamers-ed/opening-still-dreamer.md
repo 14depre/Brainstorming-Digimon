@@ -1,4 +1,4 @@
-# Opening Theme: "STILL DREAMER!" (full version, draft 1)
+# Opening Theme: "STILL DREAMER!" (romaji draft 2, Spanish draft 1)
 
 > **Draft.** Original lyrics for the *Passage Authorized* opening. The vibe takes after the original *Tamers* opening and follows a similar song structure, but no lines are borrowed. The romaji and the Spanish are written separately (the Latin dub approach), so they match in feeling, not word for word. Hooks: **STILL DREAMER!** (romaji version, Engrish) and **¡Sigue soñando!** (Spanish version). The show title is deliberately not name-dropped.
 >
@@ -6,87 +6,132 @@
 
 ---
 
-## Romaji (with meaning)
+## Romaji (draft 2, full size, follows opening-rhythm-map.md)
 
 **[Intro]**
-STILL DREAMER!
+STILL DREAMER
+Hikidashi no oku de nemuru hikari
+Ima mo kimi wo yonderu yo
 
 **[Verse 1]**
-Hikidashi no oku de *(deep inside a drawer)*
-nemutteta hikari *(a light was sleeping)*
-"Mou kodomo ja nai" tte *("I'm not a kid anymore,")*
-jibun ni uso tsuita *(I lied to myself)*
-
-Nekutai shimete *(tying my necktie)*
-densha ni yurarete *(swaying on the train)*
-mado ni utsuru kao ga *(the face reflected in the window)*
-dare da ka wakaranai *(I can't tell whose it is)*
-
-**[Pre-chorus 1]**
-Yuuhi ga yobu koe ni *(when the sunset calls my name)*
-mou furimukanai *(I won't turn around anymore)*
-Matsu no wa mou yameta *(I've quit waiting)*
-mukae ni iku yo! *(I'm coming to get you!)*
+Nekutai shimete densha ni yurarete
+MIRAA ni utsuru kao ni kiite mita
+"Kodomo no koro no boku wa doko?"
+Wasureta furi shite waratte ita
+Demo yuuyake ga mado wo someru tabi
+Mune no oku de nanika ga sawagu
+Mou kakusenai yo, kono SHIGUNARU wa kimi no koe da!
 
 **[Chorus 1]**
-STILL DREAMER!
-Mada yume miteru? *(Still dreaming?)*
-Otona ni natta kedo *(I grew up, but)*
-ano yume wa zutto koko ni aru *(that dream has always been right here)*
-Kimi ga yobu nara *(if you call me)*
-boku wa kotaeru *(I'll answer)*
-STILL DREAMER! Juusan-nen goshi no *(across thirteen years)*
-yakusoku hatasou! *(let's keep our promise!)*
+STILL DREAMER! Namae wa jibun de kimeru
+Dare ni mo yuzuranai
+Otona ni natte mo
+Ano yume wa zutto koko ni aru
+Kimi ga yobu nara boku wa kotaeru
 
 **[Verse 2]**
-Wasureta furi shite *(pretending I'd forgotten)*
-waratte ita kedo *(I kept laughing, but)*
-yume no naka de zutto *(in my dreams, all along)*
-kimi no koe ga shita *(I could hear your voice)*
-
-Kowareta mono mo *(the things that broke)*
-naosenai kizu mo *(the wounds that won't heal)*
-zenbu kakaete *(I carry all of it)*
-mae e susumu nda *(and keep moving forward)*
-
-**[Pre-chorus 2]**
-Tooku de naru kane ni *(at the bell ringing far away)*
-mou mayowanai *(I won't lose my way anymore)*
-Hitori ja nai kara *(because I'm not alone)*
-tobira wo akeyou! *(let's open the door!)*
+Kagi no kakatta tobira no mukou
+Namae no kawari ni SERIARU NANBAA
+Dareka no meirei wo matsu mama
+Tomatta tokei wa nemuranai
+*(whispered)* SUTANBAI... SUTANBAI...
+Kikoeru ka? Tsukurareta dake ja nai
+Erabu koto wa dekiru nda
+Saa, tobira wo akete, jibun no NEEMU wo sakebe!
 
 **[Chorus 2]**
-*(same as Chorus 1)*
+STILL DREAMER! ERAA demo HAAFU demo
+Boku wa boku da to mune wo hare
+Taiyou to tsuki ga onaji sora ni ukabu you ni
+Mittsu no kodou de hitotsu no uta wo
 
-**[Bridge]** *(music drops)*
-Yuuyake no michi de *(on the sunset road)*
-dareka ga matteru *(someone is waiting)*
-Demo boku wa mou *(but I already)*
-kaeru basho wo shitteru *(know where home is)*
+**[Chorus 3]**
+STILL DREAMER! Namae wa jibun de kimeru
+Dare ni mo yuzuranai
+Otona ni natte mo
+Ano yume wa zutto koko ni aru
+Kimi ga yobu nara boku wa kotaeru
 
-Kimi to deatta hi no *(the day I met you)*
-ano kimochi wa *(that feeling)*
-juusan-nen tatte mo *(even after thirteen years)*
-kawaranai mama *(hasn't changed)*
+**[Instrumental, ~40 s]**
 
 **[Final chorus]**
-STILL DREAMER!
-Mada yume miteru?
-Otona ni natta kedo
-ano yume wa zutto koko ni aru
-Kimi ga yobu nara
-boku wa kotaeru
-STILL DREAMER! Asu e to tobidase! *(leap into tomorrow!)*
-STILL DREAMER! Kimi to issho ni *(together with you)*
-mada owaranai! *(it's not over yet!)*
+STILL DREAMER! Namae wa jibun de kimeru
+Dare ni mo yuzuranai
+Otona ni natte mo
+Ano yume wa zutto koko ni aru
+Kimi ga yobu nara boku wa kotaeru
+STILL DREAMER! Namae wa jibun de kimeru
+Juusan-nen goshi no yakusoku wo
+Kimi to issho ni hatasu nda
 
 **[Outro]**
-STILL DREAMER!
-STILL DREAMER!
+STILL DREAMER
+Yuuhi ni furimukazu
+Kimi no moto e kaeru yo
 
----
+## English translation
 
-## Español latino
+**[Intro]**
+Still dreamer
+The light sleeping deep inside the drawer
+is still calling out to you
+
+**[Verse 1]**
+Tying my necktie, swaying on the train,
+I asked the face reflected in the mirror:
+"Where did the kid I used to be go?"
+I laughed and pretended I'd forgotten
+But every time the sunset dyes the window
+something stirs deep in my chest
+I can't hide it anymore, this signal is your voice!
+
+**[Chorus 1]**
+Still dreamer! I decide my own name
+I won't hand it over to anyone
+Even grown up,
+that dream has always been right here
+If you call me, I'll answer
+
+**[Verse 2]**
+Beyond a locked door
+a serial number instead of a name
+still waiting for someone's orders
+The stopped clocks never sleep
+*(whispered)* Stand by... stand by...
+Can you hear me? You weren't only made
+You can still choose
+Come on, open the door and shout your own name!
+
+**[Chorus 2]**
+Still dreamer! Even if you're an error, even if you're half,
+hold your head high and say "I am me"
+Like the sun and moon floating in the same sky
+three heartbeats singing one song
+
+**[Chorus 3]**
+*(same as Chorus 1)*
+
+**[Instrumental, ~40 s]**
+
+**[Final chorus]**
+*(Chorus 1, then:)*
+Still dreamer! I decide my own name
+The promise made across thirteen years,
+I'll keep it together with you
+
+**[Outro]**
+Still dreamer
+Without turning toward the sunset
+I'm coming home to you
+
+## Draft 2 notes
+- Thesis line: "Namae wa jibun de kimeru" (I decide my own name).
+- Engrish (romanized katakana): MIRAA (mirror), SHIGUNARU (signal), SERIARU NANBAA (serial number), SUTANBAI (stand by), NEEMU (name), ERAA (error), HAAFU (half).
+- Held notes: "yo" (intro), "da" (end of Verse 1), "sakebe" (end of Verse 2), "yo" (outro).
+- Wild cards used: C (Verse 1 is a Tamer, Verse 2 speaks to a D-X unit) and D (whispered "stand by").
+- The Spanish version below is still draft 1 and will be re-adapted to this structure.
+
+## Español latino (draft 1, to be re-adapted)
 
 > Hook: **¡Sigue soñando!** (Spanish chant; no English in this version.)
 
