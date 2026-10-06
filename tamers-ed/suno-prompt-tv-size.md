@@ -34,14 +34,18 @@ Mou kakusenai yo, kono shigunaru wa kimi no koe daaaaaaaa!
 
 [Chorus]
 [Powerful Belting, Female Backing Vocals]
-STILL DREAMER! (still dreamer!)
+STILL DREAMER!
+(still dreamer!)
 Mada yume miteru?
+(yume miteru?)
 Otona ni natta kedo, ano yume wa zutto koko ni aru
 Namae wa jibun de kimeru, kimi ga yobu nara boku wa kotaeruuuu!
+(kotaeru!)
 
 [Outro]
-[Male and Female Vocals]
+[Male Lead, Female Backing Vocals]
 STILL DREAMER, yuuhi ni furimukazu
+(still dreamer)
 [Female Vocal, soft]
 Kimi no moto e kaeru yoooooo
 
@@ -51,6 +55,6 @@ Kimi no moto e kaeru yoooooo
 
 ## Notes
 - Loanwords (miraa, shigunaru) are lowercase on purpose: ALL CAPS makes Suno belt, and only the hook should be belted.
-- Parentheses in Suno usually get sung as backing or echo vocals, so "(still dreamer!)" is the female echo. Put stage directions in [square brackets] only.
+- Female backing voice: put the voice label in [square brackets] on the line above, and only the echoed words in (parentheses). A label written inside the parentheses, like "(faint female vocals: ...)", risks Suno singing the label out loud.
 - Do not put artist or song names in the Style box; Suno blocks them.
 - If the romaji is mispronounced, try the same lyrics in Japanese script.
