@@ -1,4 +1,4 @@
-# Opening Theme: "STILL DREAMER!" (romaji draft 2, Spanish draft 1)
+# Opening Theme: "STILL DREAMER!" (romaji draft 2, Spanish draft 2)
 
 > **Draft.** Original lyrics for the *Passage Authorized* opening. The vibe takes after the original *Tamers* opening and follows a similar song structure, but no lines are borrowed. The romaji and the Spanish are written separately (the Latin dub approach), so they match in feeling, not word for word. Hooks: **STILL DREAMER!** (romaji version, Engrish) and **¡Sigue soñando!** (Spanish version). The show title is deliberately not name-dropped.
 >
@@ -131,89 +131,67 @@ I'm coming home to you
 - Wild cards used: C (Verse 1 is a Tamer, Verse 2 speaks to a D-X unit) and D (whispered "stand by").
 - The Spanish version below is still draft 1 and will be re-adapted to this structure.
 
-## Español latino (draft 1, to be re-adapted)
-
-> Hook: **¡Sigue soñando!** (Spanish chant; no English in this version.)
+## Español latino (draft 2, adaptation to the rhythm map)
 
 **[Intro]**
 ¡Sigue soñando!
-¡Sigue soñando!
+En el fondo de un cajón hay una luz
+que todavía te llama a ti
 
 **[Verso 1]**
-En el fondo de un cajón
-se quedó mi corazón,
-me dije "ya crecí",
-pero nunca lo creí.
-
-Me puse la corbata,
-el tren me llevó,
-y en el cristal un extraño
-me miró y no era yo.
-
-**[Pre-coro 1]**
-Si el ocaso me llama,
-no voltearé,
-me cansé de esperar,
-¡ahora voy por ti!
+Me puse la corbata, el tren me llevó,
+y en el espejo un extraño me miró:
+"¿Dónde quedó el niño que fui yo?"
+Fingí olvidar y me reí,
+pero cada vez que el sol se va
+algo en mi pecho vuelve a despertar,
+ya no lo puedo ocultar, ¡esa señal es tu voz!
 
 **[Coro 1]**
-¡Sigue soñando!
-¿Aún sigues soñando?
+¡Sigue soñando! ¿Aún sigues soñando?
 Aunque ya crecí,
 ese sueño nunca se fue de mí.
-Guardé mis cartas, guardé mi valor,
-¡hoy vuelvo a luchar!
-¡Sigue soñando, sigue soñando,
-trece años después, juntos otra vez!
+Mi nombre lo elijo yo,
+si tú me llamas, responderé.
 
 **[Verso 2]**
-Fingí que lo olvidé,
-reí para no llorar,
-pero en sueños tu voz
-me volvía a llamar.
-
-Lo que se rompió,
-lo que no sanó,
-lo cargo en la espalda
-y sigo adelante yo.
-
-**[Pre-coro 2]**
-Si suena la campana,
-no me perderé,
-ya no estoy solo,
-¡la puerta abriré!
+Tras una puerta con candado,
+un número en lugar de un nombre,
+esperando órdenes de alguien más,
+los relojes detenidos no duermen.
+*(susurrado)* En espera... en espera...
+¿Me escuchas? No solo te crearon,
+todavía puedes elegir,
+¡abre la puerta y grita tu nombre!
 
 **[Coro 2]**
+¡Sigue soñando! Aunque seas un error, aunque seas la mitad,
+levanta la frente y di "yo soy yo",
+como el sol y la luna en el mismo cielo,
+tres latidos cantando una canción.
+
+**[Coro 3]**
 *(igual que el Coro 1)*
 
-**[Puente]** *(baja la música)*
-En la calle del ocaso
-alguien esperando está,
-pero yo ya conozco
-el camino a mi hogar.
-
-El día en que te encontré,
-lo que sentí,
-trece años pasaron
-y sigue aquí.
+**[Instrumental, ~40 s]**
 
 **[Coro final]**
-¡Sigue soñando!
-¿Aún sigues soñando?
-Aunque ya crecí,
-ese sueño nunca se fue de mí.
-Guardé mis cartas, guardé mi valor,
-¡hoy vuelvo a luchar!
-¡Sigue soñando, sigue soñando,
-trece años después, juntos otra vez!
-¡Sigue soñando, sigue soñando,
-esto apenas va a comenzar!
+*(Coro 1, y luego:)*
+¡Sigue soñando! Mi nombre lo elijo yo,
+guardé mis cartas, guardé mi valor,
+trece años después, ¡juntos otra vez!
 
 **[Outro]**
 ¡Sigue soñando!
-¡Sigue soñando!
+Sin voltear hacia el ocaso,
+vuelvo a casa, vuelvo a ti.
 
----
+## Spanish draft 2 notes
+- No English in this version; the hook is "¡Sigue soñando!".
+- Locked lines (do not change): "¿Aún sigues soñando? / Aunque ya crecí, / ese sueño nunca se fue de mí."
+- "Stand by" becomes "En espera".
+- Held notes: "a ti" (intro), "tu voz" (end of Verso 1), "tu nombre" (end of Verso 2), "a ti" (outro).
+- The final chorus tag reuses "Guardé mis cartas, guardé mi valor" from Spanish draft 1.
 
 ## Hidden meanings
 - **The drawer:** the D-Arcs the Tamers kept for thirteen years.
